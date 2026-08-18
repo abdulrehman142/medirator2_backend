@@ -22,6 +22,6 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 | `GROK_MODEL` | Default `grok-3-mini` |
 | `GOOGLE_CLIENT_ID` | Google OAuth web client |
 | `JWT_SECRET` | Session signing secret |
-| `CORS_ORIGINS` | Comma-separated frontend URLs |
+| `CORS_ORIGINS` | Comma-separated frontend URLs (includes `https://medirator2.netlify.app` by default in code) |
 
 Frontend companion: https://github.com/abdulrehman142/medirator2_frontend
