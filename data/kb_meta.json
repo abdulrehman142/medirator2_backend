@@ -1,0 +1,12 @@
+{
+  "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+  "synthetic": true,
+  "pii_policy": "All confidential fields tokenized/masked at generation (MRN/GID/contact tokens; no SSN/phone/email).",
+  "counts": {
+    "patients": 450,
+    "medicines": 320,
+    "inventory": 280,
+    "instruments": 220,
+    "total": 1270
+  }
+}

@@ -1,0 +1,8098 @@
+[
+  {
+    "id": "M-2000",
+    "name": "Metformin",
+    "category": "Antidiabetic",
+    "form": "tablet",
+    "usage": "Type 2 diabetes",
+    "indications": "Type 2 diabetes",
+    "dosage": "500\u20131000 mg BID with meals",
+    "contraindications": [
+      "eGFR < 30",
+      "Metabolic acidosis"
+    ],
+    "batch_id": "BTX-HTX-10000",
+    "stock_units": 674,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "metformin",
+      "antidiabetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2000",
+      "btx-htx-10000"
+    ]
+  },
+  {
+    "id": "M-2001",
+    "name": "Lisinopril",
+    "category": "ACE Inhibitor",
+    "form": "tablet",
+    "usage": "Hypertension / HF",
+    "indications": "Hypertension / HF",
+    "dosage": "10\u201340 mg daily",
+    "contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "batch_id": "BTX-HTX-10001",
+    "stock_units": 134,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "lisinopril",
+      "ace",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2001",
+      "btx-htx-10001"
+    ]
+  },
+  {
+    "id": "M-2002",
+    "name": "Azithromycin",
+    "category": "Antibiotic",
+    "form": "tablet",
+    "usage": "CAP / atypical infections",
+    "indications": "CAP / atypical infections",
+    "dosage": "500 mg day 1 then 250 mg x4d",
+    "contraindications": [
+      "Macrolide allergy"
+    ],
+    "batch_id": "BTX-HTX-10002",
+    "stock_units": 45,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "azithromycin",
+      "antibiotic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2002",
+      "btx-htx-10002"
+    ]
+  },
+  {
+    "id": "M-2003",
+    "name": "Warfarin",
+    "category": "Anticoagulant",
+    "form": "tablet",
+    "usage": "AF stroke prevention / VTE",
+    "indications": "AF stroke prevention / VTE",
+    "dosage": "2\u20135 mg daily titrated to INR",
+    "contraindications": [
+      "Active bleeding",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10003",
+    "stock_units": 779,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "warfarin",
+      "anticoagulant",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2003",
+      "btx-htx-10003"
+    ]
+  },
+  {
+    "id": "M-2004",
+    "name": "Albuterol",
+    "category": "Bronchodilator",
+    "form": "inhaler",
+    "usage": "Asthma / bronchospasm",
+    "indications": "Asthma / bronchospasm",
+    "dosage": "2 puffs q4\u20136h PRN",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10004",
+    "stock_units": 301,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "albuterol",
+      "bronchodilator",
+      "inhaler",
+      "houston",
+      "pharmacy",
+      "m-2004",
+      "btx-htx-10004"
+    ]
+  },
+  {
+    "id": "M-2005",
+    "name": "Acetaminophen",
+    "category": "Analgesic",
+    "form": "tablet",
+    "usage": "Pain / fever",
+    "indications": "Pain / fever",
+    "dosage": "650\u20131000 mg q6h PRN",
+    "contraindications": [
+      "Severe hepatic impairment"
+    ],
+    "batch_id": "BTX-HTX-10005",
+    "stock_units": 270,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "acetaminophen",
+      "analgesic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2005",
+      "btx-htx-10005"
+    ]
+  },
+  {
+    "id": "M-2006",
+    "name": "Aspirin",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / CAD secondary prevention",
+    "indications": "ACS / CAD secondary prevention",
+    "dosage": "81 mg daily",
+    "contraindications": [
+      "Active GI bleed",
+      "Aspirin allergy"
+    ],
+    "batch_id": "BTX-HTX-10006",
+    "stock_units": 248,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "aspirin",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2006",
+      "btx-htx-10006"
+    ]
+  },
+  {
+    "id": "M-2007",
+    "name": "Atorvastatin",
+    "category": "Statin",
+    "form": "tablet",
+    "usage": "Hyperlipidemia",
+    "indications": "Hyperlipidemia",
+    "dosage": "10\u201380 mg nightly",
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10007",
+    "stock_units": 162,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "atorvastatin",
+      "statin",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2007",
+      "btx-htx-10007"
+    ]
+  },
+  {
+    "id": "M-2008",
+    "name": "Omeprazole",
+    "category": "PPI",
+    "form": "capsule",
+    "usage": "GERD / ulcer prophylaxis",
+    "indications": "GERD / ulcer prophylaxis",
+    "dosage": "20\u201340 mg daily",
+    "contraindications": [
+      "Hypersensitivity to PPIs"
+    ],
+    "batch_id": "BTX-HTX-10008",
+    "stock_units": 774,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "omeprazole",
+      "ppi",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2008",
+      "btx-htx-10008"
+    ]
+  },
+  {
+    "id": "M-2009",
+    "name": "Furosemide",
+    "category": "Loop diuretic",
+    "form": "tablet",
+    "usage": "Edema / HF",
+    "indications": "Edema / HF",
+    "dosage": "20\u201380 mg daily",
+    "contraindications": [
+      "Anuria",
+      "Severe electrolyte depletion"
+    ],
+    "batch_id": "BTX-HTX-10009",
+    "stock_units": 124,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "furosemide",
+      "loop",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2009",
+      "btx-htx-10009"
+    ]
+  },
+  {
+    "id": "M-2010",
+    "name": "Amoxicillin",
+    "category": "Antibiotic",
+    "form": "capsule",
+    "usage": "Bacterial infections",
+    "indications": "Bacterial infections",
+    "dosage": "500 mg TID",
+    "contraindications": [
+      "Penicillin allergy"
+    ],
+    "batch_id": "BTX-HTX-10010",
+    "stock_units": 712,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "amoxicillin",
+      "antibiotic",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2010",
+      "btx-htx-10010"
+    ]
+  },
+  {
+    "id": "M-2011",
+    "name": "Insulin Glargine",
+    "category": "Insulin",
+    "form": "injection",
+    "usage": "Diabetes basal coverage",
+    "indications": "Diabetes basal coverage",
+    "dosage": "Individualized units SQ nightly",
+    "contraindications": [
+      "Hypoglycemia risk"
+    ],
+    "batch_id": "BTX-HTX-10011",
+    "stock_units": 778,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "insulin glargine",
+      "insulin",
+      "injection",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2011",
+      "btx-htx-10011"
+    ]
+  },
+  {
+    "id": "M-2012",
+    "name": "Gabapentin",
+    "category": "Anticonvulsant",
+    "form": "capsule",
+    "usage": "Neuropathic pain",
+    "indications": "Neuropathic pain",
+    "dosage": "300\u2013600 mg TID",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10012",
+    "stock_units": 578,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "gabapentin",
+      "anticonvulsant",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2012",
+      "btx-htx-10012"
+    ]
+  },
+  {
+    "id": "M-2013",
+    "name": "Sertraline",
+    "category": "SSRI",
+    "form": "tablet",
+    "usage": "Depression / anxiety",
+    "indications": "Depression / anxiety",
+    "dosage": "50\u2013100 mg daily",
+    "contraindications": [
+      "MAOIs concurrent"
+    ],
+    "batch_id": "BTX-HTX-10013",
+    "stock_units": 109,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "sertraline",
+      "ssri",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2013",
+      "btx-htx-10013"
+    ]
+  },
+  {
+    "id": "M-2014",
+    "name": "Ondansetron",
+    "category": "Antiemetic",
+    "form": "tablet",
+    "usage": "Nausea / vomiting",
+    "indications": "Nausea / vomiting",
+    "dosage": "4\u20138 mg q8h PRN",
+    "contraindications": [
+      "Congenital long QT"
+    ],
+    "batch_id": "BTX-HTX-10014",
+    "stock_units": 624,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "ondansetron",
+      "antiemetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2014",
+      "btx-htx-10014"
+    ]
+  },
+  {
+    "id": "M-2015",
+    "name": "Heparin",
+    "category": "Anticoagulant",
+    "form": "injection",
+    "usage": "VTE prophylaxis",
+    "indications": "VTE prophylaxis",
+    "dosage": "5000 units SQ q8\u201312h",
+    "contraindications": [
+      "Active major bleed",
+      "HIT history"
+    ],
+    "batch_id": "BTX-HTX-10015",
+    "stock_units": 452,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "heparin",
+      "anticoagulant",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2015",
+      "btx-htx-10015"
+    ]
+  },
+  {
+    "id": "M-2016",
+    "name": "Morphine",
+    "category": "Opioid analgesic",
+    "form": "injection",
+    "usage": "Severe pain",
+    "indications": "Severe pain",
+    "dosage": "2\u20134 mg IV q2\u20134h PRN",
+    "contraindications": [
+      "Respiratory depression",
+      "Opioid allergy"
+    ],
+    "batch_id": "BTX-HTX-10016",
+    "stock_units": 52,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "morphine",
+      "opioid",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2016",
+      "btx-htx-10016"
+    ]
+  },
+  {
+    "id": "M-2017",
+    "name": "Prednisone",
+    "category": "Corticosteroid",
+    "form": "tablet",
+    "usage": "Inflammation / asthma flare",
+    "indications": "Inflammation / asthma flare",
+    "dosage": "5\u201360 mg daily taper",
+    "contraindications": [
+      "Systemic fungal infection"
+    ],
+    "batch_id": "BTX-HTX-10017",
+    "stock_units": 50,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "prednisone",
+      "corticosteroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2017",
+      "btx-htx-10017"
+    ]
+  },
+  {
+    "id": "M-2018",
+    "name": "Levothyroxine",
+    "category": "Thyroid hormone",
+    "form": "tablet",
+    "usage": "Hypothyroidism",
+    "indications": "Hypothyroidism",
+    "dosage": "25\u2013125 mcg daily",
+    "contraindications": [
+      "Untreated thyrotoxicosis"
+    ],
+    "batch_id": "BTX-HTX-10018",
+    "stock_units": 115,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "levothyroxine",
+      "thyroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2018",
+      "btx-htx-10018"
+    ]
+  },
+  {
+    "id": "M-2019",
+    "name": "Clopidogrel",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / stent",
+    "indications": "ACS / stent",
+    "dosage": "75 mg daily",
+    "contraindications": [
+      "Active bleeding"
+    ],
+    "batch_id": "BTX-HTX-10019",
+    "stock_units": 243,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "clopidogrel",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2019",
+      "btx-htx-10019"
+    ]
+  },
+  {
+    "id": "M-2020",
+    "name": "Metformin XR",
+    "category": "Antidiabetic",
+    "form": "tablet",
+    "usage": "Type 2 diabetes",
+    "indications": "Type 2 diabetes",
+    "dosage": "500\u20131000 mg BID with meals",
+    "contraindications": [
+      "eGFR < 30",
+      "Metabolic acidosis"
+    ],
+    "batch_id": "BTX-HTX-10020",
+    "stock_units": 258,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "metformin",
+      "antidiabetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2020",
+      "btx-htx-10020"
+    ]
+  },
+  {
+    "id": "M-2021",
+    "name": "Lisinopril IR",
+    "category": "ACE Inhibitor",
+    "form": "tablet",
+    "usage": "Hypertension / HF",
+    "indications": "Hypertension / HF",
+    "dosage": "10\u201340 mg daily",
+    "contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "batch_id": "BTX-HTX-10021",
+    "stock_units": 537,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "lisinopril",
+      "ace",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2021",
+      "btx-htx-10021"
+    ]
+  },
+  {
+    "id": "M-2022",
+    "name": "Azithromycin Generic",
+    "category": "Antibiotic",
+    "form": "tablet",
+    "usage": "CAP / atypical infections",
+    "indications": "CAP / atypical infections",
+    "dosage": "500 mg day 1 then 250 mg x4d",
+    "contraindications": [
+      "Macrolide allergy"
+    ],
+    "batch_id": "BTX-HTX-10022",
+    "stock_units": 636,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "azithromycin",
+      "antibiotic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2022",
+      "btx-htx-10022"
+    ]
+  },
+  {
+    "id": "M-2023",
+    "name": "Warfarin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "tablet",
+    "usage": "AF stroke prevention / VTE",
+    "indications": "AF stroke prevention / VTE",
+    "dosage": "2\u20135 mg daily titrated to INR",
+    "contraindications": [
+      "Active bleeding",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10023",
+    "stock_units": 47,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "warfarin",
+      "anticoagulant",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2023",
+      "btx-htx-10023"
+    ]
+  },
+  {
+    "id": "M-2024",
+    "name": "Albuterol XR",
+    "category": "Bronchodilator",
+    "form": "inhaler",
+    "usage": "Asthma / bronchospasm",
+    "indications": "Asthma / bronchospasm",
+    "dosage": "2 puffs q4\u20136h PRN",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10024",
+    "stock_units": 594,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "albuterol",
+      "bronchodilator",
+      "inhaler",
+      "houston",
+      "pharmacy",
+      "m-2024",
+      "btx-htx-10024"
+    ]
+  },
+  {
+    "id": "M-2025",
+    "name": "Acetaminophen IR",
+    "category": "Analgesic",
+    "form": "tablet",
+    "usage": "Pain / fever",
+    "indications": "Pain / fever",
+    "dosage": "650\u20131000 mg q6h PRN",
+    "contraindications": [
+      "Severe hepatic impairment"
+    ],
+    "batch_id": "BTX-HTX-10025",
+    "stock_units": 223,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "acetaminophen",
+      "analgesic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2025",
+      "btx-htx-10025"
+    ]
+  },
+  {
+    "id": "M-2026",
+    "name": "Aspirin Generic",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / CAD secondary prevention",
+    "indications": "ACS / CAD secondary prevention",
+    "dosage": "81 mg daily",
+    "contraindications": [
+      "Active GI bleed",
+      "Aspirin allergy"
+    ],
+    "batch_id": "BTX-HTX-10026",
+    "stock_units": 753,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "aspirin",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2026",
+      "btx-htx-10026"
+    ]
+  },
+  {
+    "id": "M-2027",
+    "name": "Atorvastatin Hospital Pack",
+    "category": "Statin",
+    "form": "tablet",
+    "usage": "Hyperlipidemia",
+    "indications": "Hyperlipidemia",
+    "dosage": "10\u201380 mg nightly",
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10027",
+    "stock_units": 685,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "atorvastatin",
+      "statin",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2027",
+      "btx-htx-10027"
+    ]
+  },
+  {
+    "id": "M-2028",
+    "name": "Omeprazole XR",
+    "category": "PPI",
+    "form": "capsule",
+    "usage": "GERD / ulcer prophylaxis",
+    "indications": "GERD / ulcer prophylaxis",
+    "dosage": "20\u201340 mg daily",
+    "contraindications": [
+      "Hypersensitivity to PPIs"
+    ],
+    "batch_id": "BTX-HTX-10028",
+    "stock_units": 738,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "omeprazole",
+      "ppi",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2028",
+      "btx-htx-10028"
+    ]
+  },
+  {
+    "id": "M-2029",
+    "name": "Furosemide IR",
+    "category": "Loop diuretic",
+    "form": "tablet",
+    "usage": "Edema / HF",
+    "indications": "Edema / HF",
+    "dosage": "20\u201380 mg daily",
+    "contraindications": [
+      "Anuria",
+      "Severe electrolyte depletion"
+    ],
+    "batch_id": "BTX-HTX-10029",
+    "stock_units": 578,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "furosemide",
+      "loop",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2029",
+      "btx-htx-10029"
+    ]
+  },
+  {
+    "id": "M-2030",
+    "name": "Amoxicillin Generic",
+    "category": "Antibiotic",
+    "form": "capsule",
+    "usage": "Bacterial infections",
+    "indications": "Bacterial infections",
+    "dosage": "500 mg TID",
+    "contraindications": [
+      "Penicillin allergy"
+    ],
+    "batch_id": "BTX-HTX-10030",
+    "stock_units": 449,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "amoxicillin",
+      "antibiotic",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2030",
+      "btx-htx-10030"
+    ]
+  },
+  {
+    "id": "M-2031",
+    "name": "Insulin Glargine Hospital Pack",
+    "category": "Insulin",
+    "form": "injection",
+    "usage": "Diabetes basal coverage",
+    "indications": "Diabetes basal coverage",
+    "dosage": "Individualized units SQ nightly",
+    "contraindications": [
+      "Hypoglycemia risk"
+    ],
+    "batch_id": "BTX-HTX-10031",
+    "stock_units": 245,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "insulin glargine",
+      "insulin",
+      "injection",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2031",
+      "btx-htx-10031"
+    ]
+  },
+  {
+    "id": "M-2032",
+    "name": "Gabapentin XR",
+    "category": "Anticonvulsant",
+    "form": "capsule",
+    "usage": "Neuropathic pain",
+    "indications": "Neuropathic pain",
+    "dosage": "300\u2013600 mg TID",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10032",
+    "stock_units": 479,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "gabapentin",
+      "anticonvulsant",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2032",
+      "btx-htx-10032"
+    ]
+  },
+  {
+    "id": "M-2033",
+    "name": "Sertraline IR",
+    "category": "SSRI",
+    "form": "tablet",
+    "usage": "Depression / anxiety",
+    "indications": "Depression / anxiety",
+    "dosage": "50\u2013100 mg daily",
+    "contraindications": [
+      "MAOIs concurrent"
+    ],
+    "batch_id": "BTX-HTX-10033",
+    "stock_units": 623,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "sertraline",
+      "ssri",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2033",
+      "btx-htx-10033"
+    ]
+  },
+  {
+    "id": "M-2034",
+    "name": "Ondansetron Generic",
+    "category": "Antiemetic",
+    "form": "tablet",
+    "usage": "Nausea / vomiting",
+    "indications": "Nausea / vomiting",
+    "dosage": "4\u20138 mg q8h PRN",
+    "contraindications": [
+      "Congenital long QT"
+    ],
+    "batch_id": "BTX-HTX-10034",
+    "stock_units": 304,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "ondansetron",
+      "antiemetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2034",
+      "btx-htx-10034"
+    ]
+  },
+  {
+    "id": "M-2035",
+    "name": "Heparin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "injection",
+    "usage": "VTE prophylaxis",
+    "indications": "VTE prophylaxis",
+    "dosage": "5000 units SQ q8\u201312h",
+    "contraindications": [
+      "Active major bleed",
+      "HIT history"
+    ],
+    "batch_id": "BTX-HTX-10035",
+    "stock_units": 26,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "heparin",
+      "anticoagulant",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2035",
+      "btx-htx-10035"
+    ]
+  },
+  {
+    "id": "M-2036",
+    "name": "Morphine XR",
+    "category": "Opioid analgesic",
+    "form": "injection",
+    "usage": "Severe pain",
+    "indications": "Severe pain",
+    "dosage": "2\u20134 mg IV q2\u20134h PRN",
+    "contraindications": [
+      "Respiratory depression",
+      "Opioid allergy"
+    ],
+    "batch_id": "BTX-HTX-10036",
+    "stock_units": 797,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "morphine",
+      "opioid",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2036",
+      "btx-htx-10036"
+    ]
+  },
+  {
+    "id": "M-2037",
+    "name": "Prednisone IR",
+    "category": "Corticosteroid",
+    "form": "tablet",
+    "usage": "Inflammation / asthma flare",
+    "indications": "Inflammation / asthma flare",
+    "dosage": "5\u201360 mg daily taper",
+    "contraindications": [
+      "Systemic fungal infection"
+    ],
+    "batch_id": "BTX-HTX-10037",
+    "stock_units": 183,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "prednisone",
+      "corticosteroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2037",
+      "btx-htx-10037"
+    ]
+  },
+  {
+    "id": "M-2038",
+    "name": "Levothyroxine Generic",
+    "category": "Thyroid hormone",
+    "form": "tablet",
+    "usage": "Hypothyroidism",
+    "indications": "Hypothyroidism",
+    "dosage": "25\u2013125 mcg daily",
+    "contraindications": [
+      "Untreated thyrotoxicosis"
+    ],
+    "batch_id": "BTX-HTX-10038",
+    "stock_units": 734,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "levothyroxine",
+      "thyroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2038",
+      "btx-htx-10038"
+    ]
+  },
+  {
+    "id": "M-2039",
+    "name": "Clopidogrel Hospital Pack",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / stent",
+    "indications": "ACS / stent",
+    "dosage": "75 mg daily",
+    "contraindications": [
+      "Active bleeding"
+    ],
+    "batch_id": "BTX-HTX-10039",
+    "stock_units": 452,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "clopidogrel",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2039",
+      "btx-htx-10039"
+    ]
+  },
+  {
+    "id": "M-2040",
+    "name": "Metformin XR",
+    "category": "Antidiabetic",
+    "form": "tablet",
+    "usage": "Type 2 diabetes",
+    "indications": "Type 2 diabetes",
+    "dosage": "500\u20131000 mg BID with meals",
+    "contraindications": [
+      "eGFR < 30",
+      "Metabolic acidosis"
+    ],
+    "batch_id": "BTX-HTX-10040",
+    "stock_units": 368,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "metformin",
+      "antidiabetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2040",
+      "btx-htx-10040"
+    ]
+  },
+  {
+    "id": "M-2041",
+    "name": "Lisinopril IR",
+    "category": "ACE Inhibitor",
+    "form": "tablet",
+    "usage": "Hypertension / HF",
+    "indications": "Hypertension / HF",
+    "dosage": "10\u201340 mg daily",
+    "contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "batch_id": "BTX-HTX-10041",
+    "stock_units": 304,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "lisinopril",
+      "ace",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2041",
+      "btx-htx-10041"
+    ]
+  },
+  {
+    "id": "M-2042",
+    "name": "Azithromycin Generic",
+    "category": "Antibiotic",
+    "form": "tablet",
+    "usage": "CAP / atypical infections",
+    "indications": "CAP / atypical infections",
+    "dosage": "500 mg day 1 then 250 mg x4d",
+    "contraindications": [
+      "Macrolide allergy"
+    ],
+    "batch_id": "BTX-HTX-10042",
+    "stock_units": 179,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "azithromycin",
+      "antibiotic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2042",
+      "btx-htx-10042"
+    ]
+  },
+  {
+    "id": "M-2043",
+    "name": "Warfarin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "tablet",
+    "usage": "AF stroke prevention / VTE",
+    "indications": "AF stroke prevention / VTE",
+    "dosage": "2\u20135 mg daily titrated to INR",
+    "contraindications": [
+      "Active bleeding",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10043",
+    "stock_units": 240,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "warfarin",
+      "anticoagulant",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2043",
+      "btx-htx-10043"
+    ]
+  },
+  {
+    "id": "M-2044",
+    "name": "Albuterol XR",
+    "category": "Bronchodilator",
+    "form": "inhaler",
+    "usage": "Asthma / bronchospasm",
+    "indications": "Asthma / bronchospasm",
+    "dosage": "2 puffs q4\u20136h PRN",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10044",
+    "stock_units": 364,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "albuterol",
+      "bronchodilator",
+      "inhaler",
+      "houston",
+      "pharmacy",
+      "m-2044",
+      "btx-htx-10044"
+    ]
+  },
+  {
+    "id": "M-2045",
+    "name": "Acetaminophen IR",
+    "category": "Analgesic",
+    "form": "tablet",
+    "usage": "Pain / fever",
+    "indications": "Pain / fever",
+    "dosage": "650\u20131000 mg q6h PRN",
+    "contraindications": [
+      "Severe hepatic impairment"
+    ],
+    "batch_id": "BTX-HTX-10045",
+    "stock_units": 124,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "acetaminophen",
+      "analgesic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2045",
+      "btx-htx-10045"
+    ]
+  },
+  {
+    "id": "M-2046",
+    "name": "Aspirin Generic",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / CAD secondary prevention",
+    "indications": "ACS / CAD secondary prevention",
+    "dosage": "81 mg daily",
+    "contraindications": [
+      "Active GI bleed",
+      "Aspirin allergy"
+    ],
+    "batch_id": "BTX-HTX-10046",
+    "stock_units": 114,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "aspirin",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2046",
+      "btx-htx-10046"
+    ]
+  },
+  {
+    "id": "M-2047",
+    "name": "Atorvastatin Hospital Pack",
+    "category": "Statin",
+    "form": "tablet",
+    "usage": "Hyperlipidemia",
+    "indications": "Hyperlipidemia",
+    "dosage": "10\u201380 mg nightly",
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10047",
+    "stock_units": 409,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "atorvastatin",
+      "statin",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2047",
+      "btx-htx-10047"
+    ]
+  },
+  {
+    "id": "M-2048",
+    "name": "Omeprazole XR",
+    "category": "PPI",
+    "form": "capsule",
+    "usage": "GERD / ulcer prophylaxis",
+    "indications": "GERD / ulcer prophylaxis",
+    "dosage": "20\u201340 mg daily",
+    "contraindications": [
+      "Hypersensitivity to PPIs"
+    ],
+    "batch_id": "BTX-HTX-10048",
+    "stock_units": 119,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "omeprazole",
+      "ppi",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2048",
+      "btx-htx-10048"
+    ]
+  },
+  {
+    "id": "M-2049",
+    "name": "Furosemide IR",
+    "category": "Loop diuretic",
+    "form": "tablet",
+    "usage": "Edema / HF",
+    "indications": "Edema / HF",
+    "dosage": "20\u201380 mg daily",
+    "contraindications": [
+      "Anuria",
+      "Severe electrolyte depletion"
+    ],
+    "batch_id": "BTX-HTX-10049",
+    "stock_units": 387,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "furosemide",
+      "loop",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2049",
+      "btx-htx-10049"
+    ]
+  },
+  {
+    "id": "M-2050",
+    "name": "Amoxicillin Generic",
+    "category": "Antibiotic",
+    "form": "capsule",
+    "usage": "Bacterial infections",
+    "indications": "Bacterial infections",
+    "dosage": "500 mg TID",
+    "contraindications": [
+      "Penicillin allergy"
+    ],
+    "batch_id": "BTX-HTX-10050",
+    "stock_units": 372,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "amoxicillin",
+      "antibiotic",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2050",
+      "btx-htx-10050"
+    ]
+  },
+  {
+    "id": "M-2051",
+    "name": "Insulin Glargine Hospital Pack",
+    "category": "Insulin",
+    "form": "injection",
+    "usage": "Diabetes basal coverage",
+    "indications": "Diabetes basal coverage",
+    "dosage": "Individualized units SQ nightly",
+    "contraindications": [
+      "Hypoglycemia risk"
+    ],
+    "batch_id": "BTX-HTX-10051",
+    "stock_units": 638,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "insulin glargine",
+      "insulin",
+      "injection",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2051",
+      "btx-htx-10051"
+    ]
+  },
+  {
+    "id": "M-2052",
+    "name": "Gabapentin XR",
+    "category": "Anticonvulsant",
+    "form": "capsule",
+    "usage": "Neuropathic pain",
+    "indications": "Neuropathic pain",
+    "dosage": "300\u2013600 mg TID",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10052",
+    "stock_units": 290,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "gabapentin",
+      "anticonvulsant",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2052",
+      "btx-htx-10052"
+    ]
+  },
+  {
+    "id": "M-2053",
+    "name": "Sertraline IR",
+    "category": "SSRI",
+    "form": "tablet",
+    "usage": "Depression / anxiety",
+    "indications": "Depression / anxiety",
+    "dosage": "50\u2013100 mg daily",
+    "contraindications": [
+      "MAOIs concurrent"
+    ],
+    "batch_id": "BTX-HTX-10053",
+    "stock_units": 64,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "sertraline",
+      "ssri",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2053",
+      "btx-htx-10053"
+    ]
+  },
+  {
+    "id": "M-2054",
+    "name": "Ondansetron Generic",
+    "category": "Antiemetic",
+    "form": "tablet",
+    "usage": "Nausea / vomiting",
+    "indications": "Nausea / vomiting",
+    "dosage": "4\u20138 mg q8h PRN",
+    "contraindications": [
+      "Congenital long QT"
+    ],
+    "batch_id": "BTX-HTX-10054",
+    "stock_units": 767,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "ondansetron",
+      "antiemetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2054",
+      "btx-htx-10054"
+    ]
+  },
+  {
+    "id": "M-2055",
+    "name": "Heparin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "injection",
+    "usage": "VTE prophylaxis",
+    "indications": "VTE prophylaxis",
+    "dosage": "5000 units SQ q8\u201312h",
+    "contraindications": [
+      "Active major bleed",
+      "HIT history"
+    ],
+    "batch_id": "BTX-HTX-10055",
+    "stock_units": 490,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "heparin",
+      "anticoagulant",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2055",
+      "btx-htx-10055"
+    ]
+  },
+  {
+    "id": "M-2056",
+    "name": "Morphine XR",
+    "category": "Opioid analgesic",
+    "form": "injection",
+    "usage": "Severe pain",
+    "indications": "Severe pain",
+    "dosage": "2\u20134 mg IV q2\u20134h PRN",
+    "contraindications": [
+      "Respiratory depression",
+      "Opioid allergy"
+    ],
+    "batch_id": "BTX-HTX-10056",
+    "stock_units": 569,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "morphine",
+      "opioid",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2056",
+      "btx-htx-10056"
+    ]
+  },
+  {
+    "id": "M-2057",
+    "name": "Prednisone IR",
+    "category": "Corticosteroid",
+    "form": "tablet",
+    "usage": "Inflammation / asthma flare",
+    "indications": "Inflammation / asthma flare",
+    "dosage": "5\u201360 mg daily taper",
+    "contraindications": [
+      "Systemic fungal infection"
+    ],
+    "batch_id": "BTX-HTX-10057",
+    "stock_units": 147,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "prednisone",
+      "corticosteroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2057",
+      "btx-htx-10057"
+    ]
+  },
+  {
+    "id": "M-2058",
+    "name": "Levothyroxine Generic",
+    "category": "Thyroid hormone",
+    "form": "tablet",
+    "usage": "Hypothyroidism",
+    "indications": "Hypothyroidism",
+    "dosage": "25\u2013125 mcg daily",
+    "contraindications": [
+      "Untreated thyrotoxicosis"
+    ],
+    "batch_id": "BTX-HTX-10058",
+    "stock_units": 407,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "levothyroxine",
+      "thyroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2058",
+      "btx-htx-10058"
+    ]
+  },
+  {
+    "id": "M-2059",
+    "name": "Clopidogrel Hospital Pack",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / stent",
+    "indications": "ACS / stent",
+    "dosage": "75 mg daily",
+    "contraindications": [
+      "Active bleeding"
+    ],
+    "batch_id": "BTX-HTX-10059",
+    "stock_units": 100,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "clopidogrel",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2059",
+      "btx-htx-10059"
+    ]
+  },
+  {
+    "id": "M-2060",
+    "name": "Metformin XR",
+    "category": "Antidiabetic",
+    "form": "tablet",
+    "usage": "Type 2 diabetes",
+    "indications": "Type 2 diabetes",
+    "dosage": "500\u20131000 mg BID with meals",
+    "contraindications": [
+      "eGFR < 30",
+      "Metabolic acidosis"
+    ],
+    "batch_id": "BTX-HTX-10060",
+    "stock_units": 585,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "metformin",
+      "antidiabetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2060",
+      "btx-htx-10060"
+    ]
+  },
+  {
+    "id": "M-2061",
+    "name": "Lisinopril IR",
+    "category": "ACE Inhibitor",
+    "form": "tablet",
+    "usage": "Hypertension / HF",
+    "indications": "Hypertension / HF",
+    "dosage": "10\u201340 mg daily",
+    "contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "batch_id": "BTX-HTX-10061",
+    "stock_units": 320,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "lisinopril",
+      "ace",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2061",
+      "btx-htx-10061"
+    ]
+  },
+  {
+    "id": "M-2062",
+    "name": "Azithromycin Generic",
+    "category": "Antibiotic",
+    "form": "tablet",
+    "usage": "CAP / atypical infections",
+    "indications": "CAP / atypical infections",
+    "dosage": "500 mg day 1 then 250 mg x4d",
+    "contraindications": [
+      "Macrolide allergy"
+    ],
+    "batch_id": "BTX-HTX-10062",
+    "stock_units": 663,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "azithromycin",
+      "antibiotic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2062",
+      "btx-htx-10062"
+    ]
+  },
+  {
+    "id": "M-2063",
+    "name": "Warfarin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "tablet",
+    "usage": "AF stroke prevention / VTE",
+    "indications": "AF stroke prevention / VTE",
+    "dosage": "2\u20135 mg daily titrated to INR",
+    "contraindications": [
+      "Active bleeding",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10063",
+    "stock_units": 653,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "warfarin",
+      "anticoagulant",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2063",
+      "btx-htx-10063"
+    ]
+  },
+  {
+    "id": "M-2064",
+    "name": "Albuterol XR",
+    "category": "Bronchodilator",
+    "form": "inhaler",
+    "usage": "Asthma / bronchospasm",
+    "indications": "Asthma / bronchospasm",
+    "dosage": "2 puffs q4\u20136h PRN",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10064",
+    "stock_units": 390,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "albuterol",
+      "bronchodilator",
+      "inhaler",
+      "houston",
+      "pharmacy",
+      "m-2064",
+      "btx-htx-10064"
+    ]
+  },
+  {
+    "id": "M-2065",
+    "name": "Acetaminophen IR",
+    "category": "Analgesic",
+    "form": "tablet",
+    "usage": "Pain / fever",
+    "indications": "Pain / fever",
+    "dosage": "650\u20131000 mg q6h PRN",
+    "contraindications": [
+      "Severe hepatic impairment"
+    ],
+    "batch_id": "BTX-HTX-10065",
+    "stock_units": 611,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "acetaminophen",
+      "analgesic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2065",
+      "btx-htx-10065"
+    ]
+  },
+  {
+    "id": "M-2066",
+    "name": "Aspirin Generic",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / CAD secondary prevention",
+    "indications": "ACS / CAD secondary prevention",
+    "dosage": "81 mg daily",
+    "contraindications": [
+      "Active GI bleed",
+      "Aspirin allergy"
+    ],
+    "batch_id": "BTX-HTX-10066",
+    "stock_units": 216,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "aspirin",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2066",
+      "btx-htx-10066"
+    ]
+  },
+  {
+    "id": "M-2067",
+    "name": "Atorvastatin Hospital Pack",
+    "category": "Statin",
+    "form": "tablet",
+    "usage": "Hyperlipidemia",
+    "indications": "Hyperlipidemia",
+    "dosage": "10\u201380 mg nightly",
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10067",
+    "stock_units": 741,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "atorvastatin",
+      "statin",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2067",
+      "btx-htx-10067"
+    ]
+  },
+  {
+    "id": "M-2068",
+    "name": "Omeprazole XR",
+    "category": "PPI",
+    "form": "capsule",
+    "usage": "GERD / ulcer prophylaxis",
+    "indications": "GERD / ulcer prophylaxis",
+    "dosage": "20\u201340 mg daily",
+    "contraindications": [
+      "Hypersensitivity to PPIs"
+    ],
+    "batch_id": "BTX-HTX-10068",
+    "stock_units": 91,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "omeprazole",
+      "ppi",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2068",
+      "btx-htx-10068"
+    ]
+  },
+  {
+    "id": "M-2069",
+    "name": "Furosemide IR",
+    "category": "Loop diuretic",
+    "form": "tablet",
+    "usage": "Edema / HF",
+    "indications": "Edema / HF",
+    "dosage": "20\u201380 mg daily",
+    "contraindications": [
+      "Anuria",
+      "Severe electrolyte depletion"
+    ],
+    "batch_id": "BTX-HTX-10069",
+    "stock_units": 66,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "furosemide",
+      "loop",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2069",
+      "btx-htx-10069"
+    ]
+  },
+  {
+    "id": "M-2070",
+    "name": "Amoxicillin Generic",
+    "category": "Antibiotic",
+    "form": "capsule",
+    "usage": "Bacterial infections",
+    "indications": "Bacterial infections",
+    "dosage": "500 mg TID",
+    "contraindications": [
+      "Penicillin allergy"
+    ],
+    "batch_id": "BTX-HTX-10070",
+    "stock_units": 697,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "amoxicillin",
+      "antibiotic",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2070",
+      "btx-htx-10070"
+    ]
+  },
+  {
+    "id": "M-2071",
+    "name": "Insulin Glargine Hospital Pack",
+    "category": "Insulin",
+    "form": "injection",
+    "usage": "Diabetes basal coverage",
+    "indications": "Diabetes basal coverage",
+    "dosage": "Individualized units SQ nightly",
+    "contraindications": [
+      "Hypoglycemia risk"
+    ],
+    "batch_id": "BTX-HTX-10071",
+    "stock_units": 253,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "insulin glargine",
+      "insulin",
+      "injection",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2071",
+      "btx-htx-10071"
+    ]
+  },
+  {
+    "id": "M-2072",
+    "name": "Gabapentin XR",
+    "category": "Anticonvulsant",
+    "form": "capsule",
+    "usage": "Neuropathic pain",
+    "indications": "Neuropathic pain",
+    "dosage": "300\u2013600 mg TID",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10072",
+    "stock_units": 316,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "gabapentin",
+      "anticonvulsant",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2072",
+      "btx-htx-10072"
+    ]
+  },
+  {
+    "id": "M-2073",
+    "name": "Sertraline IR",
+    "category": "SSRI",
+    "form": "tablet",
+    "usage": "Depression / anxiety",
+    "indications": "Depression / anxiety",
+    "dosage": "50\u2013100 mg daily",
+    "contraindications": [
+      "MAOIs concurrent"
+    ],
+    "batch_id": "BTX-HTX-10073",
+    "stock_units": 101,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "sertraline",
+      "ssri",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2073",
+      "btx-htx-10073"
+    ]
+  },
+  {
+    "id": "M-2074",
+    "name": "Ondansetron Generic",
+    "category": "Antiemetic",
+    "form": "tablet",
+    "usage": "Nausea / vomiting",
+    "indications": "Nausea / vomiting",
+    "dosage": "4\u20138 mg q8h PRN",
+    "contraindications": [
+      "Congenital long QT"
+    ],
+    "batch_id": "BTX-HTX-10074",
+    "stock_units": 258,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "ondansetron",
+      "antiemetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2074",
+      "btx-htx-10074"
+    ]
+  },
+  {
+    "id": "M-2075",
+    "name": "Heparin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "injection",
+    "usage": "VTE prophylaxis",
+    "indications": "VTE prophylaxis",
+    "dosage": "5000 units SQ q8\u201312h",
+    "contraindications": [
+      "Active major bleed",
+      "HIT history"
+    ],
+    "batch_id": "BTX-HTX-10075",
+    "stock_units": 123,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "heparin",
+      "anticoagulant",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2075",
+      "btx-htx-10075"
+    ]
+  },
+  {
+    "id": "M-2076",
+    "name": "Morphine XR",
+    "category": "Opioid analgesic",
+    "form": "injection",
+    "usage": "Severe pain",
+    "indications": "Severe pain",
+    "dosage": "2\u20134 mg IV q2\u20134h PRN",
+    "contraindications": [
+      "Respiratory depression",
+      "Opioid allergy"
+    ],
+    "batch_id": "BTX-HTX-10076",
+    "stock_units": 409,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "morphine",
+      "opioid",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2076",
+      "btx-htx-10076"
+    ]
+  },
+  {
+    "id": "M-2077",
+    "name": "Prednisone IR",
+    "category": "Corticosteroid",
+    "form": "tablet",
+    "usage": "Inflammation / asthma flare",
+    "indications": "Inflammation / asthma flare",
+    "dosage": "5\u201360 mg daily taper",
+    "contraindications": [
+      "Systemic fungal infection"
+    ],
+    "batch_id": "BTX-HTX-10077",
+    "stock_units": 304,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "prednisone",
+      "corticosteroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2077",
+      "btx-htx-10077"
+    ]
+  },
+  {
+    "id": "M-2078",
+    "name": "Levothyroxine Generic",
+    "category": "Thyroid hormone",
+    "form": "tablet",
+    "usage": "Hypothyroidism",
+    "indications": "Hypothyroidism",
+    "dosage": "25\u2013125 mcg daily",
+    "contraindications": [
+      "Untreated thyrotoxicosis"
+    ],
+    "batch_id": "BTX-HTX-10078",
+    "stock_units": 484,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "levothyroxine",
+      "thyroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2078",
+      "btx-htx-10078"
+    ]
+  },
+  {
+    "id": "M-2079",
+    "name": "Clopidogrel Hospital Pack",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / stent",
+    "indications": "ACS / stent",
+    "dosage": "75 mg daily",
+    "contraindications": [
+      "Active bleeding"
+    ],
+    "batch_id": "BTX-HTX-10079",
+    "stock_units": 670,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "clopidogrel",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2079",
+      "btx-htx-10079"
+    ]
+  },
+  {
+    "id": "M-2080",
+    "name": "Metformin XR",
+    "category": "Antidiabetic",
+    "form": "tablet",
+    "usage": "Type 2 diabetes",
+    "indications": "Type 2 diabetes",
+    "dosage": "500\u20131000 mg BID with meals",
+    "contraindications": [
+      "eGFR < 30",
+      "Metabolic acidosis"
+    ],
+    "batch_id": "BTX-HTX-10080",
+    "stock_units": 393,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "metformin",
+      "antidiabetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2080",
+      "btx-htx-10080"
+    ]
+  },
+  {
+    "id": "M-2081",
+    "name": "Lisinopril IR",
+    "category": "ACE Inhibitor",
+    "form": "tablet",
+    "usage": "Hypertension / HF",
+    "indications": "Hypertension / HF",
+    "dosage": "10\u201340 mg daily",
+    "contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "batch_id": "BTX-HTX-10081",
+    "stock_units": 186,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "lisinopril",
+      "ace",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2081",
+      "btx-htx-10081"
+    ]
+  },
+  {
+    "id": "M-2082",
+    "name": "Azithromycin Generic",
+    "category": "Antibiotic",
+    "form": "tablet",
+    "usage": "CAP / atypical infections",
+    "indications": "CAP / atypical infections",
+    "dosage": "500 mg day 1 then 250 mg x4d",
+    "contraindications": [
+      "Macrolide allergy"
+    ],
+    "batch_id": "BTX-HTX-10082",
+    "stock_units": 399,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "azithromycin",
+      "antibiotic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2082",
+      "btx-htx-10082"
+    ]
+  },
+  {
+    "id": "M-2083",
+    "name": "Warfarin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "tablet",
+    "usage": "AF stroke prevention / VTE",
+    "indications": "AF stroke prevention / VTE",
+    "dosage": "2\u20135 mg daily titrated to INR",
+    "contraindications": [
+      "Active bleeding",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10083",
+    "stock_units": 383,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "warfarin",
+      "anticoagulant",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2083",
+      "btx-htx-10083"
+    ]
+  },
+  {
+    "id": "M-2084",
+    "name": "Albuterol XR",
+    "category": "Bronchodilator",
+    "form": "inhaler",
+    "usage": "Asthma / bronchospasm",
+    "indications": "Asthma / bronchospasm",
+    "dosage": "2 puffs q4\u20136h PRN",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10084",
+    "stock_units": 234,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "albuterol",
+      "bronchodilator",
+      "inhaler",
+      "houston",
+      "pharmacy",
+      "m-2084",
+      "btx-htx-10084"
+    ]
+  },
+  {
+    "id": "M-2085",
+    "name": "Acetaminophen IR",
+    "category": "Analgesic",
+    "form": "tablet",
+    "usage": "Pain / fever",
+    "indications": "Pain / fever",
+    "dosage": "650\u20131000 mg q6h PRN",
+    "contraindications": [
+      "Severe hepatic impairment"
+    ],
+    "batch_id": "BTX-HTX-10085",
+    "stock_units": 706,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "acetaminophen",
+      "analgesic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2085",
+      "btx-htx-10085"
+    ]
+  },
+  {
+    "id": "M-2086",
+    "name": "Aspirin Generic",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / CAD secondary prevention",
+    "indications": "ACS / CAD secondary prevention",
+    "dosage": "81 mg daily",
+    "contraindications": [
+      "Active GI bleed",
+      "Aspirin allergy"
+    ],
+    "batch_id": "BTX-HTX-10086",
+    "stock_units": 293,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "aspirin",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2086",
+      "btx-htx-10086"
+    ]
+  },
+  {
+    "id": "M-2087",
+    "name": "Atorvastatin Hospital Pack",
+    "category": "Statin",
+    "form": "tablet",
+    "usage": "Hyperlipidemia",
+    "indications": "Hyperlipidemia",
+    "dosage": "10\u201380 mg nightly",
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10087",
+    "stock_units": 738,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "atorvastatin",
+      "statin",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2087",
+      "btx-htx-10087"
+    ]
+  },
+  {
+    "id": "M-2088",
+    "name": "Omeprazole XR",
+    "category": "PPI",
+    "form": "capsule",
+    "usage": "GERD / ulcer prophylaxis",
+    "indications": "GERD / ulcer prophylaxis",
+    "dosage": "20\u201340 mg daily",
+    "contraindications": [
+      "Hypersensitivity to PPIs"
+    ],
+    "batch_id": "BTX-HTX-10088",
+    "stock_units": 719,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "omeprazole",
+      "ppi",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2088",
+      "btx-htx-10088"
+    ]
+  },
+  {
+    "id": "M-2089",
+    "name": "Furosemide IR",
+    "category": "Loop diuretic",
+    "form": "tablet",
+    "usage": "Edema / HF",
+    "indications": "Edema / HF",
+    "dosage": "20\u201380 mg daily",
+    "contraindications": [
+      "Anuria",
+      "Severe electrolyte depletion"
+    ],
+    "batch_id": "BTX-HTX-10089",
+    "stock_units": 683,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "furosemide",
+      "loop",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2089",
+      "btx-htx-10089"
+    ]
+  },
+  {
+    "id": "M-2090",
+    "name": "Amoxicillin Generic",
+    "category": "Antibiotic",
+    "form": "capsule",
+    "usage": "Bacterial infections",
+    "indications": "Bacterial infections",
+    "dosage": "500 mg TID",
+    "contraindications": [
+      "Penicillin allergy"
+    ],
+    "batch_id": "BTX-HTX-10090",
+    "stock_units": 93,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "amoxicillin",
+      "antibiotic",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2090",
+      "btx-htx-10090"
+    ]
+  },
+  {
+    "id": "M-2091",
+    "name": "Insulin Glargine Hospital Pack",
+    "category": "Insulin",
+    "form": "injection",
+    "usage": "Diabetes basal coverage",
+    "indications": "Diabetes basal coverage",
+    "dosage": "Individualized units SQ nightly",
+    "contraindications": [
+      "Hypoglycemia risk"
+    ],
+    "batch_id": "BTX-HTX-10091",
+    "stock_units": 643,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "insulin glargine",
+      "insulin",
+      "injection",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2091",
+      "btx-htx-10091"
+    ]
+  },
+  {
+    "id": "M-2092",
+    "name": "Gabapentin XR",
+    "category": "Anticonvulsant",
+    "form": "capsule",
+    "usage": "Neuropathic pain",
+    "indications": "Neuropathic pain",
+    "dosage": "300\u2013600 mg TID",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10092",
+    "stock_units": 670,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "gabapentin",
+      "anticonvulsant",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2092",
+      "btx-htx-10092"
+    ]
+  },
+  {
+    "id": "M-2093",
+    "name": "Sertraline IR",
+    "category": "SSRI",
+    "form": "tablet",
+    "usage": "Depression / anxiety",
+    "indications": "Depression / anxiety",
+    "dosage": "50\u2013100 mg daily",
+    "contraindications": [
+      "MAOIs concurrent"
+    ],
+    "batch_id": "BTX-HTX-10093",
+    "stock_units": 195,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "sertraline",
+      "ssri",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2093",
+      "btx-htx-10093"
+    ]
+  },
+  {
+    "id": "M-2094",
+    "name": "Ondansetron Generic",
+    "category": "Antiemetic",
+    "form": "tablet",
+    "usage": "Nausea / vomiting",
+    "indications": "Nausea / vomiting",
+    "dosage": "4\u20138 mg q8h PRN",
+    "contraindications": [
+      "Congenital long QT"
+    ],
+    "batch_id": "BTX-HTX-10094",
+    "stock_units": 566,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "ondansetron",
+      "antiemetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2094",
+      "btx-htx-10094"
+    ]
+  },
+  {
+    "id": "M-2095",
+    "name": "Heparin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "injection",
+    "usage": "VTE prophylaxis",
+    "indications": "VTE prophylaxis",
+    "dosage": "5000 units SQ q8\u201312h",
+    "contraindications": [
+      "Active major bleed",
+      "HIT history"
+    ],
+    "batch_id": "BTX-HTX-10095",
+    "stock_units": 766,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "heparin",
+      "anticoagulant",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2095",
+      "btx-htx-10095"
+    ]
+  },
+  {
+    "id": "M-2096",
+    "name": "Morphine XR",
+    "category": "Opioid analgesic",
+    "form": "injection",
+    "usage": "Severe pain",
+    "indications": "Severe pain",
+    "dosage": "2\u20134 mg IV q2\u20134h PRN",
+    "contraindications": [
+      "Respiratory depression",
+      "Opioid allergy"
+    ],
+    "batch_id": "BTX-HTX-10096",
+    "stock_units": 270,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "morphine",
+      "opioid",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2096",
+      "btx-htx-10096"
+    ]
+  },
+  {
+    "id": "M-2097",
+    "name": "Prednisone IR",
+    "category": "Corticosteroid",
+    "form": "tablet",
+    "usage": "Inflammation / asthma flare",
+    "indications": "Inflammation / asthma flare",
+    "dosage": "5\u201360 mg daily taper",
+    "contraindications": [
+      "Systemic fungal infection"
+    ],
+    "batch_id": "BTX-HTX-10097",
+    "stock_units": 187,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "prednisone",
+      "corticosteroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2097",
+      "btx-htx-10097"
+    ]
+  },
+  {
+    "id": "M-2098",
+    "name": "Levothyroxine Generic",
+    "category": "Thyroid hormone",
+    "form": "tablet",
+    "usage": "Hypothyroidism",
+    "indications": "Hypothyroidism",
+    "dosage": "25\u2013125 mcg daily",
+    "contraindications": [
+      "Untreated thyrotoxicosis"
+    ],
+    "batch_id": "BTX-HTX-10098",
+    "stock_units": 493,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "levothyroxine",
+      "thyroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2098",
+      "btx-htx-10098"
+    ]
+  },
+  {
+    "id": "M-2099",
+    "name": "Clopidogrel Hospital Pack",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / stent",
+    "indications": "ACS / stent",
+    "dosage": "75 mg daily",
+    "contraindications": [
+      "Active bleeding"
+    ],
+    "batch_id": "BTX-HTX-10099",
+    "stock_units": 408,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "clopidogrel",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2099",
+      "btx-htx-10099"
+    ]
+  },
+  {
+    "id": "M-2100",
+    "name": "Metformin XR",
+    "category": "Antidiabetic",
+    "form": "tablet",
+    "usage": "Type 2 diabetes",
+    "indications": "Type 2 diabetes",
+    "dosage": "500\u20131000 mg BID with meals",
+    "contraindications": [
+      "eGFR < 30",
+      "Metabolic acidosis"
+    ],
+    "batch_id": "BTX-HTX-10100",
+    "stock_units": 296,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "metformin",
+      "antidiabetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2100",
+      "btx-htx-10100"
+    ]
+  },
+  {
+    "id": "M-2101",
+    "name": "Lisinopril IR",
+    "category": "ACE Inhibitor",
+    "form": "tablet",
+    "usage": "Hypertension / HF",
+    "indications": "Hypertension / HF",
+    "dosage": "10\u201340 mg daily",
+    "contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "batch_id": "BTX-HTX-10101",
+    "stock_units": 675,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "lisinopril",
+      "ace",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2101",
+      "btx-htx-10101"
+    ]
+  },
+  {
+    "id": "M-2102",
+    "name": "Azithromycin Generic",
+    "category": "Antibiotic",
+    "form": "tablet",
+    "usage": "CAP / atypical infections",
+    "indications": "CAP / atypical infections",
+    "dosage": "500 mg day 1 then 250 mg x4d",
+    "contraindications": [
+      "Macrolide allergy"
+    ],
+    "batch_id": "BTX-HTX-10102",
+    "stock_units": 724,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "azithromycin",
+      "antibiotic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2102",
+      "btx-htx-10102"
+    ]
+  },
+  {
+    "id": "M-2103",
+    "name": "Warfarin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "tablet",
+    "usage": "AF stroke prevention / VTE",
+    "indications": "AF stroke prevention / VTE",
+    "dosage": "2\u20135 mg daily titrated to INR",
+    "contraindications": [
+      "Active bleeding",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10103",
+    "stock_units": 590,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "warfarin",
+      "anticoagulant",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2103",
+      "btx-htx-10103"
+    ]
+  },
+  {
+    "id": "M-2104",
+    "name": "Albuterol XR",
+    "category": "Bronchodilator",
+    "form": "inhaler",
+    "usage": "Asthma / bronchospasm",
+    "indications": "Asthma / bronchospasm",
+    "dosage": "2 puffs q4\u20136h PRN",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10104",
+    "stock_units": 244,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "albuterol",
+      "bronchodilator",
+      "inhaler",
+      "houston",
+      "pharmacy",
+      "m-2104",
+      "btx-htx-10104"
+    ]
+  },
+  {
+    "id": "M-2105",
+    "name": "Acetaminophen IR",
+    "category": "Analgesic",
+    "form": "tablet",
+    "usage": "Pain / fever",
+    "indications": "Pain / fever",
+    "dosage": "650\u20131000 mg q6h PRN",
+    "contraindications": [
+      "Severe hepatic impairment"
+    ],
+    "batch_id": "BTX-HTX-10105",
+    "stock_units": 721,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "acetaminophen",
+      "analgesic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2105",
+      "btx-htx-10105"
+    ]
+  },
+  {
+    "id": "M-2106",
+    "name": "Aspirin Generic",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / CAD secondary prevention",
+    "indications": "ACS / CAD secondary prevention",
+    "dosage": "81 mg daily",
+    "contraindications": [
+      "Active GI bleed",
+      "Aspirin allergy"
+    ],
+    "batch_id": "BTX-HTX-10106",
+    "stock_units": 352,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "aspirin",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2106",
+      "btx-htx-10106"
+    ]
+  },
+  {
+    "id": "M-2107",
+    "name": "Atorvastatin Hospital Pack",
+    "category": "Statin",
+    "form": "tablet",
+    "usage": "Hyperlipidemia",
+    "indications": "Hyperlipidemia",
+    "dosage": "10\u201380 mg nightly",
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10107",
+    "stock_units": 77,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "atorvastatin",
+      "statin",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2107",
+      "btx-htx-10107"
+    ]
+  },
+  {
+    "id": "M-2108",
+    "name": "Omeprazole XR",
+    "category": "PPI",
+    "form": "capsule",
+    "usage": "GERD / ulcer prophylaxis",
+    "indications": "GERD / ulcer prophylaxis",
+    "dosage": "20\u201340 mg daily",
+    "contraindications": [
+      "Hypersensitivity to PPIs"
+    ],
+    "batch_id": "BTX-HTX-10108",
+    "stock_units": 254,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "omeprazole",
+      "ppi",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2108",
+      "btx-htx-10108"
+    ]
+  },
+  {
+    "id": "M-2109",
+    "name": "Furosemide IR",
+    "category": "Loop diuretic",
+    "form": "tablet",
+    "usage": "Edema / HF",
+    "indications": "Edema / HF",
+    "dosage": "20\u201380 mg daily",
+    "contraindications": [
+      "Anuria",
+      "Severe electrolyte depletion"
+    ],
+    "batch_id": "BTX-HTX-10109",
+    "stock_units": 52,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "furosemide",
+      "loop",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2109",
+      "btx-htx-10109"
+    ]
+  },
+  {
+    "id": "M-2110",
+    "name": "Amoxicillin Generic",
+    "category": "Antibiotic",
+    "form": "capsule",
+    "usage": "Bacterial infections",
+    "indications": "Bacterial infections",
+    "dosage": "500 mg TID",
+    "contraindications": [
+      "Penicillin allergy"
+    ],
+    "batch_id": "BTX-HTX-10110",
+    "stock_units": 343,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "amoxicillin",
+      "antibiotic",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2110",
+      "btx-htx-10110"
+    ]
+  },
+  {
+    "id": "M-2111",
+    "name": "Insulin Glargine Hospital Pack",
+    "category": "Insulin",
+    "form": "injection",
+    "usage": "Diabetes basal coverage",
+    "indications": "Diabetes basal coverage",
+    "dosage": "Individualized units SQ nightly",
+    "contraindications": [
+      "Hypoglycemia risk"
+    ],
+    "batch_id": "BTX-HTX-10111",
+    "stock_units": 430,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "insulin glargine",
+      "insulin",
+      "injection",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2111",
+      "btx-htx-10111"
+    ]
+  },
+  {
+    "id": "M-2112",
+    "name": "Gabapentin XR",
+    "category": "Anticonvulsant",
+    "form": "capsule",
+    "usage": "Neuropathic pain",
+    "indications": "Neuropathic pain",
+    "dosage": "300\u2013600 mg TID",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10112",
+    "stock_units": 294,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "gabapentin",
+      "anticonvulsant",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2112",
+      "btx-htx-10112"
+    ]
+  },
+  {
+    "id": "M-2113",
+    "name": "Sertraline IR",
+    "category": "SSRI",
+    "form": "tablet",
+    "usage": "Depression / anxiety",
+    "indications": "Depression / anxiety",
+    "dosage": "50\u2013100 mg daily",
+    "contraindications": [
+      "MAOIs concurrent"
+    ],
+    "batch_id": "BTX-HTX-10113",
+    "stock_units": 87,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "sertraline",
+      "ssri",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2113",
+      "btx-htx-10113"
+    ]
+  },
+  {
+    "id": "M-2114",
+    "name": "Ondansetron Generic",
+    "category": "Antiemetic",
+    "form": "tablet",
+    "usage": "Nausea / vomiting",
+    "indications": "Nausea / vomiting",
+    "dosage": "4\u20138 mg q8h PRN",
+    "contraindications": [
+      "Congenital long QT"
+    ],
+    "batch_id": "BTX-HTX-10114",
+    "stock_units": 236,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "ondansetron",
+      "antiemetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2114",
+      "btx-htx-10114"
+    ]
+  },
+  {
+    "id": "M-2115",
+    "name": "Heparin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "injection",
+    "usage": "VTE prophylaxis",
+    "indications": "VTE prophylaxis",
+    "dosage": "5000 units SQ q8\u201312h",
+    "contraindications": [
+      "Active major bleed",
+      "HIT history"
+    ],
+    "batch_id": "BTX-HTX-10115",
+    "stock_units": 600,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "heparin",
+      "anticoagulant",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2115",
+      "btx-htx-10115"
+    ]
+  },
+  {
+    "id": "M-2116",
+    "name": "Morphine XR",
+    "category": "Opioid analgesic",
+    "form": "injection",
+    "usage": "Severe pain",
+    "indications": "Severe pain",
+    "dosage": "2\u20134 mg IV q2\u20134h PRN",
+    "contraindications": [
+      "Respiratory depression",
+      "Opioid allergy"
+    ],
+    "batch_id": "BTX-HTX-10116",
+    "stock_units": 755,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "morphine",
+      "opioid",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2116",
+      "btx-htx-10116"
+    ]
+  },
+  {
+    "id": "M-2117",
+    "name": "Prednisone IR",
+    "category": "Corticosteroid",
+    "form": "tablet",
+    "usage": "Inflammation / asthma flare",
+    "indications": "Inflammation / asthma flare",
+    "dosage": "5\u201360 mg daily taper",
+    "contraindications": [
+      "Systemic fungal infection"
+    ],
+    "batch_id": "BTX-HTX-10117",
+    "stock_units": 342,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "prednisone",
+      "corticosteroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2117",
+      "btx-htx-10117"
+    ]
+  },
+  {
+    "id": "M-2118",
+    "name": "Levothyroxine Generic",
+    "category": "Thyroid hormone",
+    "form": "tablet",
+    "usage": "Hypothyroidism",
+    "indications": "Hypothyroidism",
+    "dosage": "25\u2013125 mcg daily",
+    "contraindications": [
+      "Untreated thyrotoxicosis"
+    ],
+    "batch_id": "BTX-HTX-10118",
+    "stock_units": 237,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "levothyroxine",
+      "thyroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2118",
+      "btx-htx-10118"
+    ]
+  },
+  {
+    "id": "M-2119",
+    "name": "Clopidogrel Hospital Pack",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / stent",
+    "indications": "ACS / stent",
+    "dosage": "75 mg daily",
+    "contraindications": [
+      "Active bleeding"
+    ],
+    "batch_id": "BTX-HTX-10119",
+    "stock_units": 691,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "clopidogrel",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2119",
+      "btx-htx-10119"
+    ]
+  },
+  {
+    "id": "M-2120",
+    "name": "Metformin XR",
+    "category": "Antidiabetic",
+    "form": "tablet",
+    "usage": "Type 2 diabetes",
+    "indications": "Type 2 diabetes",
+    "dosage": "500\u20131000 mg BID with meals",
+    "contraindications": [
+      "eGFR < 30",
+      "Metabolic acidosis"
+    ],
+    "batch_id": "BTX-HTX-10120",
+    "stock_units": 531,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "metformin",
+      "antidiabetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2120",
+      "btx-htx-10120"
+    ]
+  },
+  {
+    "id": "M-2121",
+    "name": "Lisinopril IR",
+    "category": "ACE Inhibitor",
+    "form": "tablet",
+    "usage": "Hypertension / HF",
+    "indications": "Hypertension / HF",
+    "dosage": "10\u201340 mg daily",
+    "contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "batch_id": "BTX-HTX-10121",
+    "stock_units": 425,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "lisinopril",
+      "ace",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2121",
+      "btx-htx-10121"
+    ]
+  },
+  {
+    "id": "M-2122",
+    "name": "Azithromycin Generic",
+    "category": "Antibiotic",
+    "form": "tablet",
+    "usage": "CAP / atypical infections",
+    "indications": "CAP / atypical infections",
+    "dosage": "500 mg day 1 then 250 mg x4d",
+    "contraindications": [
+      "Macrolide allergy"
+    ],
+    "batch_id": "BTX-HTX-10122",
+    "stock_units": 678,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "azithromycin",
+      "antibiotic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2122",
+      "btx-htx-10122"
+    ]
+  },
+  {
+    "id": "M-2123",
+    "name": "Warfarin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "tablet",
+    "usage": "AF stroke prevention / VTE",
+    "indications": "AF stroke prevention / VTE",
+    "dosage": "2\u20135 mg daily titrated to INR",
+    "contraindications": [
+      "Active bleeding",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10123",
+    "stock_units": 489,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "warfarin",
+      "anticoagulant",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2123",
+      "btx-htx-10123"
+    ]
+  },
+  {
+    "id": "M-2124",
+    "name": "Albuterol XR",
+    "category": "Bronchodilator",
+    "form": "inhaler",
+    "usage": "Asthma / bronchospasm",
+    "indications": "Asthma / bronchospasm",
+    "dosage": "2 puffs q4\u20136h PRN",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10124",
+    "stock_units": 166,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "albuterol",
+      "bronchodilator",
+      "inhaler",
+      "houston",
+      "pharmacy",
+      "m-2124",
+      "btx-htx-10124"
+    ]
+  },
+  {
+    "id": "M-2125",
+    "name": "Acetaminophen IR",
+    "category": "Analgesic",
+    "form": "tablet",
+    "usage": "Pain / fever",
+    "indications": "Pain / fever",
+    "dosage": "650\u20131000 mg q6h PRN",
+    "contraindications": [
+      "Severe hepatic impairment"
+    ],
+    "batch_id": "BTX-HTX-10125",
+    "stock_units": 291,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "acetaminophen",
+      "analgesic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2125",
+      "btx-htx-10125"
+    ]
+  },
+  {
+    "id": "M-2126",
+    "name": "Aspirin Generic",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / CAD secondary prevention",
+    "indications": "ACS / CAD secondary prevention",
+    "dosage": "81 mg daily",
+    "contraindications": [
+      "Active GI bleed",
+      "Aspirin allergy"
+    ],
+    "batch_id": "BTX-HTX-10126",
+    "stock_units": 162,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "aspirin",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2126",
+      "btx-htx-10126"
+    ]
+  },
+  {
+    "id": "M-2127",
+    "name": "Atorvastatin Hospital Pack",
+    "category": "Statin",
+    "form": "tablet",
+    "usage": "Hyperlipidemia",
+    "indications": "Hyperlipidemia",
+    "dosage": "10\u201380 mg nightly",
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10127",
+    "stock_units": 272,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "atorvastatin",
+      "statin",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2127",
+      "btx-htx-10127"
+    ]
+  },
+  {
+    "id": "M-2128",
+    "name": "Omeprazole XR",
+    "category": "PPI",
+    "form": "capsule",
+    "usage": "GERD / ulcer prophylaxis",
+    "indications": "GERD / ulcer prophylaxis",
+    "dosage": "20\u201340 mg daily",
+    "contraindications": [
+      "Hypersensitivity to PPIs"
+    ],
+    "batch_id": "BTX-HTX-10128",
+    "stock_units": 782,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "omeprazole",
+      "ppi",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2128",
+      "btx-htx-10128"
+    ]
+  },
+  {
+    "id": "M-2129",
+    "name": "Furosemide IR",
+    "category": "Loop diuretic",
+    "form": "tablet",
+    "usage": "Edema / HF",
+    "indications": "Edema / HF",
+    "dosage": "20\u201380 mg daily",
+    "contraindications": [
+      "Anuria",
+      "Severe electrolyte depletion"
+    ],
+    "batch_id": "BTX-HTX-10129",
+    "stock_units": 594,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "furosemide",
+      "loop",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2129",
+      "btx-htx-10129"
+    ]
+  },
+  {
+    "id": "M-2130",
+    "name": "Amoxicillin Generic",
+    "category": "Antibiotic",
+    "form": "capsule",
+    "usage": "Bacterial infections",
+    "indications": "Bacterial infections",
+    "dosage": "500 mg TID",
+    "contraindications": [
+      "Penicillin allergy"
+    ],
+    "batch_id": "BTX-HTX-10130",
+    "stock_units": 571,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "amoxicillin",
+      "antibiotic",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2130",
+      "btx-htx-10130"
+    ]
+  },
+  {
+    "id": "M-2131",
+    "name": "Insulin Glargine Hospital Pack",
+    "category": "Insulin",
+    "form": "injection",
+    "usage": "Diabetes basal coverage",
+    "indications": "Diabetes basal coverage",
+    "dosage": "Individualized units SQ nightly",
+    "contraindications": [
+      "Hypoglycemia risk"
+    ],
+    "batch_id": "BTX-HTX-10131",
+    "stock_units": 289,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "insulin glargine",
+      "insulin",
+      "injection",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2131",
+      "btx-htx-10131"
+    ]
+  },
+  {
+    "id": "M-2132",
+    "name": "Gabapentin XR",
+    "category": "Anticonvulsant",
+    "form": "capsule",
+    "usage": "Neuropathic pain",
+    "indications": "Neuropathic pain",
+    "dosage": "300\u2013600 mg TID",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10132",
+    "stock_units": 784,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "gabapentin",
+      "anticonvulsant",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2132",
+      "btx-htx-10132"
+    ]
+  },
+  {
+    "id": "M-2133",
+    "name": "Sertraline IR",
+    "category": "SSRI",
+    "form": "tablet",
+    "usage": "Depression / anxiety",
+    "indications": "Depression / anxiety",
+    "dosage": "50\u2013100 mg daily",
+    "contraindications": [
+      "MAOIs concurrent"
+    ],
+    "batch_id": "BTX-HTX-10133",
+    "stock_units": 618,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "sertraline",
+      "ssri",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2133",
+      "btx-htx-10133"
+    ]
+  },
+  {
+    "id": "M-2134",
+    "name": "Ondansetron Generic",
+    "category": "Antiemetic",
+    "form": "tablet",
+    "usage": "Nausea / vomiting",
+    "indications": "Nausea / vomiting",
+    "dosage": "4\u20138 mg q8h PRN",
+    "contraindications": [
+      "Congenital long QT"
+    ],
+    "batch_id": "BTX-HTX-10134",
+    "stock_units": 458,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "ondansetron",
+      "antiemetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2134",
+      "btx-htx-10134"
+    ]
+  },
+  {
+    "id": "M-2135",
+    "name": "Heparin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "injection",
+    "usage": "VTE prophylaxis",
+    "indications": "VTE prophylaxis",
+    "dosage": "5000 units SQ q8\u201312h",
+    "contraindications": [
+      "Active major bleed",
+      "HIT history"
+    ],
+    "batch_id": "BTX-HTX-10135",
+    "stock_units": 617,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "heparin",
+      "anticoagulant",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2135",
+      "btx-htx-10135"
+    ]
+  },
+  {
+    "id": "M-2136",
+    "name": "Morphine XR",
+    "category": "Opioid analgesic",
+    "form": "injection",
+    "usage": "Severe pain",
+    "indications": "Severe pain",
+    "dosage": "2\u20134 mg IV q2\u20134h PRN",
+    "contraindications": [
+      "Respiratory depression",
+      "Opioid allergy"
+    ],
+    "batch_id": "BTX-HTX-10136",
+    "stock_units": 428,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "morphine",
+      "opioid",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2136",
+      "btx-htx-10136"
+    ]
+  },
+  {
+    "id": "M-2137",
+    "name": "Prednisone IR",
+    "category": "Corticosteroid",
+    "form": "tablet",
+    "usage": "Inflammation / asthma flare",
+    "indications": "Inflammation / asthma flare",
+    "dosage": "5\u201360 mg daily taper",
+    "contraindications": [
+      "Systemic fungal infection"
+    ],
+    "batch_id": "BTX-HTX-10137",
+    "stock_units": 390,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "prednisone",
+      "corticosteroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2137",
+      "btx-htx-10137"
+    ]
+  },
+  {
+    "id": "M-2138",
+    "name": "Levothyroxine Generic",
+    "category": "Thyroid hormone",
+    "form": "tablet",
+    "usage": "Hypothyroidism",
+    "indications": "Hypothyroidism",
+    "dosage": "25\u2013125 mcg daily",
+    "contraindications": [
+      "Untreated thyrotoxicosis"
+    ],
+    "batch_id": "BTX-HTX-10138",
+    "stock_units": 244,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "levothyroxine",
+      "thyroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2138",
+      "btx-htx-10138"
+    ]
+  },
+  {
+    "id": "M-2139",
+    "name": "Clopidogrel Hospital Pack",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / stent",
+    "indications": "ACS / stent",
+    "dosage": "75 mg daily",
+    "contraindications": [
+      "Active bleeding"
+    ],
+    "batch_id": "BTX-HTX-10139",
+    "stock_units": 161,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "clopidogrel",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2139",
+      "btx-htx-10139"
+    ]
+  },
+  {
+    "id": "M-2140",
+    "name": "Metformin XR",
+    "category": "Antidiabetic",
+    "form": "tablet",
+    "usage": "Type 2 diabetes",
+    "indications": "Type 2 diabetes",
+    "dosage": "500\u20131000 mg BID with meals",
+    "contraindications": [
+      "eGFR < 30",
+      "Metabolic acidosis"
+    ],
+    "batch_id": "BTX-HTX-10140",
+    "stock_units": 541,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "metformin",
+      "antidiabetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2140",
+      "btx-htx-10140"
+    ]
+  },
+  {
+    "id": "M-2141",
+    "name": "Lisinopril IR",
+    "category": "ACE Inhibitor",
+    "form": "tablet",
+    "usage": "Hypertension / HF",
+    "indications": "Hypertension / HF",
+    "dosage": "10\u201340 mg daily",
+    "contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "batch_id": "BTX-HTX-10141",
+    "stock_units": 525,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "lisinopril",
+      "ace",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2141",
+      "btx-htx-10141"
+    ]
+  },
+  {
+    "id": "M-2142",
+    "name": "Azithromycin Generic",
+    "category": "Antibiotic",
+    "form": "tablet",
+    "usage": "CAP / atypical infections",
+    "indications": "CAP / atypical infections",
+    "dosage": "500 mg day 1 then 250 mg x4d",
+    "contraindications": [
+      "Macrolide allergy"
+    ],
+    "batch_id": "BTX-HTX-10142",
+    "stock_units": 113,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "azithromycin",
+      "antibiotic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2142",
+      "btx-htx-10142"
+    ]
+  },
+  {
+    "id": "M-2143",
+    "name": "Warfarin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "tablet",
+    "usage": "AF stroke prevention / VTE",
+    "indications": "AF stroke prevention / VTE",
+    "dosage": "2\u20135 mg daily titrated to INR",
+    "contraindications": [
+      "Active bleeding",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10143",
+    "stock_units": 793,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "warfarin",
+      "anticoagulant",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2143",
+      "btx-htx-10143"
+    ]
+  },
+  {
+    "id": "M-2144",
+    "name": "Albuterol XR",
+    "category": "Bronchodilator",
+    "form": "inhaler",
+    "usage": "Asthma / bronchospasm",
+    "indications": "Asthma / bronchospasm",
+    "dosage": "2 puffs q4\u20136h PRN",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10144",
+    "stock_units": 68,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "albuterol",
+      "bronchodilator",
+      "inhaler",
+      "houston",
+      "pharmacy",
+      "m-2144",
+      "btx-htx-10144"
+    ]
+  },
+  {
+    "id": "M-2145",
+    "name": "Acetaminophen IR",
+    "category": "Analgesic",
+    "form": "tablet",
+    "usage": "Pain / fever",
+    "indications": "Pain / fever",
+    "dosage": "650\u20131000 mg q6h PRN",
+    "contraindications": [
+      "Severe hepatic impairment"
+    ],
+    "batch_id": "BTX-HTX-10145",
+    "stock_units": 132,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "acetaminophen",
+      "analgesic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2145",
+      "btx-htx-10145"
+    ]
+  },
+  {
+    "id": "M-2146",
+    "name": "Aspirin Generic",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / CAD secondary prevention",
+    "indications": "ACS / CAD secondary prevention",
+    "dosage": "81 mg daily",
+    "contraindications": [
+      "Active GI bleed",
+      "Aspirin allergy"
+    ],
+    "batch_id": "BTX-HTX-10146",
+    "stock_units": 176,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "aspirin",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2146",
+      "btx-htx-10146"
+    ]
+  },
+  {
+    "id": "M-2147",
+    "name": "Atorvastatin Hospital Pack",
+    "category": "Statin",
+    "form": "tablet",
+    "usage": "Hyperlipidemia",
+    "indications": "Hyperlipidemia",
+    "dosage": "10\u201380 mg nightly",
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10147",
+    "stock_units": 662,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "atorvastatin",
+      "statin",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2147",
+      "btx-htx-10147"
+    ]
+  },
+  {
+    "id": "M-2148",
+    "name": "Omeprazole XR",
+    "category": "PPI",
+    "form": "capsule",
+    "usage": "GERD / ulcer prophylaxis",
+    "indications": "GERD / ulcer prophylaxis",
+    "dosage": "20\u201340 mg daily",
+    "contraindications": [
+      "Hypersensitivity to PPIs"
+    ],
+    "batch_id": "BTX-HTX-10148",
+    "stock_units": 183,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "omeprazole",
+      "ppi",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2148",
+      "btx-htx-10148"
+    ]
+  },
+  {
+    "id": "M-2149",
+    "name": "Furosemide IR",
+    "category": "Loop diuretic",
+    "form": "tablet",
+    "usage": "Edema / HF",
+    "indications": "Edema / HF",
+    "dosage": "20\u201380 mg daily",
+    "contraindications": [
+      "Anuria",
+      "Severe electrolyte depletion"
+    ],
+    "batch_id": "BTX-HTX-10149",
+    "stock_units": 716,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "furosemide",
+      "loop",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2149",
+      "btx-htx-10149"
+    ]
+  },
+  {
+    "id": "M-2150",
+    "name": "Amoxicillin Generic",
+    "category": "Antibiotic",
+    "form": "capsule",
+    "usage": "Bacterial infections",
+    "indications": "Bacterial infections",
+    "dosage": "500 mg TID",
+    "contraindications": [
+      "Penicillin allergy"
+    ],
+    "batch_id": "BTX-HTX-10150",
+    "stock_units": 452,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "amoxicillin",
+      "antibiotic",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2150",
+      "btx-htx-10150"
+    ]
+  },
+  {
+    "id": "M-2151",
+    "name": "Insulin Glargine Hospital Pack",
+    "category": "Insulin",
+    "form": "injection",
+    "usage": "Diabetes basal coverage",
+    "indications": "Diabetes basal coverage",
+    "dosage": "Individualized units SQ nightly",
+    "contraindications": [
+      "Hypoglycemia risk"
+    ],
+    "batch_id": "BTX-HTX-10151",
+    "stock_units": 630,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "insulin glargine",
+      "insulin",
+      "injection",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2151",
+      "btx-htx-10151"
+    ]
+  },
+  {
+    "id": "M-2152",
+    "name": "Gabapentin XR",
+    "category": "Anticonvulsant",
+    "form": "capsule",
+    "usage": "Neuropathic pain",
+    "indications": "Neuropathic pain",
+    "dosage": "300\u2013600 mg TID",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10152",
+    "stock_units": 85,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "gabapentin",
+      "anticonvulsant",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2152",
+      "btx-htx-10152"
+    ]
+  },
+  {
+    "id": "M-2153",
+    "name": "Sertraline IR",
+    "category": "SSRI",
+    "form": "tablet",
+    "usage": "Depression / anxiety",
+    "indications": "Depression / anxiety",
+    "dosage": "50\u2013100 mg daily",
+    "contraindications": [
+      "MAOIs concurrent"
+    ],
+    "batch_id": "BTX-HTX-10153",
+    "stock_units": 414,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "sertraline",
+      "ssri",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2153",
+      "btx-htx-10153"
+    ]
+  },
+  {
+    "id": "M-2154",
+    "name": "Ondansetron Generic",
+    "category": "Antiemetic",
+    "form": "tablet",
+    "usage": "Nausea / vomiting",
+    "indications": "Nausea / vomiting",
+    "dosage": "4\u20138 mg q8h PRN",
+    "contraindications": [
+      "Congenital long QT"
+    ],
+    "batch_id": "BTX-HTX-10154",
+    "stock_units": 410,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "ondansetron",
+      "antiemetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2154",
+      "btx-htx-10154"
+    ]
+  },
+  {
+    "id": "M-2155",
+    "name": "Heparin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "injection",
+    "usage": "VTE prophylaxis",
+    "indications": "VTE prophylaxis",
+    "dosage": "5000 units SQ q8\u201312h",
+    "contraindications": [
+      "Active major bleed",
+      "HIT history"
+    ],
+    "batch_id": "BTX-HTX-10155",
+    "stock_units": 630,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "heparin",
+      "anticoagulant",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2155",
+      "btx-htx-10155"
+    ]
+  },
+  {
+    "id": "M-2156",
+    "name": "Morphine XR",
+    "category": "Opioid analgesic",
+    "form": "injection",
+    "usage": "Severe pain",
+    "indications": "Severe pain",
+    "dosage": "2\u20134 mg IV q2\u20134h PRN",
+    "contraindications": [
+      "Respiratory depression",
+      "Opioid allergy"
+    ],
+    "batch_id": "BTX-HTX-10156",
+    "stock_units": 499,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "morphine",
+      "opioid",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2156",
+      "btx-htx-10156"
+    ]
+  },
+  {
+    "id": "M-2157",
+    "name": "Prednisone IR",
+    "category": "Corticosteroid",
+    "form": "tablet",
+    "usage": "Inflammation / asthma flare",
+    "indications": "Inflammation / asthma flare",
+    "dosage": "5\u201360 mg daily taper",
+    "contraindications": [
+      "Systemic fungal infection"
+    ],
+    "batch_id": "BTX-HTX-10157",
+    "stock_units": 561,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "prednisone",
+      "corticosteroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2157",
+      "btx-htx-10157"
+    ]
+  },
+  {
+    "id": "M-2158",
+    "name": "Levothyroxine Generic",
+    "category": "Thyroid hormone",
+    "form": "tablet",
+    "usage": "Hypothyroidism",
+    "indications": "Hypothyroidism",
+    "dosage": "25\u2013125 mcg daily",
+    "contraindications": [
+      "Untreated thyrotoxicosis"
+    ],
+    "batch_id": "BTX-HTX-10158",
+    "stock_units": 277,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "levothyroxine",
+      "thyroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2158",
+      "btx-htx-10158"
+    ]
+  },
+  {
+    "id": "M-2159",
+    "name": "Clopidogrel Hospital Pack",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / stent",
+    "indications": "ACS / stent",
+    "dosage": "75 mg daily",
+    "contraindications": [
+      "Active bleeding"
+    ],
+    "batch_id": "BTX-HTX-10159",
+    "stock_units": 586,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "clopidogrel",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2159",
+      "btx-htx-10159"
+    ]
+  },
+  {
+    "id": "M-2160",
+    "name": "Metformin XR",
+    "category": "Antidiabetic",
+    "form": "tablet",
+    "usage": "Type 2 diabetes",
+    "indications": "Type 2 diabetes",
+    "dosage": "500\u20131000 mg BID with meals",
+    "contraindications": [
+      "eGFR < 30",
+      "Metabolic acidosis"
+    ],
+    "batch_id": "BTX-HTX-10160",
+    "stock_units": 31,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "metformin",
+      "antidiabetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2160",
+      "btx-htx-10160"
+    ]
+  },
+  {
+    "id": "M-2161",
+    "name": "Lisinopril IR",
+    "category": "ACE Inhibitor",
+    "form": "tablet",
+    "usage": "Hypertension / HF",
+    "indications": "Hypertension / HF",
+    "dosage": "10\u201340 mg daily",
+    "contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "batch_id": "BTX-HTX-10161",
+    "stock_units": 716,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "lisinopril",
+      "ace",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2161",
+      "btx-htx-10161"
+    ]
+  },
+  {
+    "id": "M-2162",
+    "name": "Azithromycin Generic",
+    "category": "Antibiotic",
+    "form": "tablet",
+    "usage": "CAP / atypical infections",
+    "indications": "CAP / atypical infections",
+    "dosage": "500 mg day 1 then 250 mg x4d",
+    "contraindications": [
+      "Macrolide allergy"
+    ],
+    "batch_id": "BTX-HTX-10162",
+    "stock_units": 758,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "azithromycin",
+      "antibiotic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2162",
+      "btx-htx-10162"
+    ]
+  },
+  {
+    "id": "M-2163",
+    "name": "Warfarin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "tablet",
+    "usage": "AF stroke prevention / VTE",
+    "indications": "AF stroke prevention / VTE",
+    "dosage": "2\u20135 mg daily titrated to INR",
+    "contraindications": [
+      "Active bleeding",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10163",
+    "stock_units": 137,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "warfarin",
+      "anticoagulant",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2163",
+      "btx-htx-10163"
+    ]
+  },
+  {
+    "id": "M-2164",
+    "name": "Albuterol XR",
+    "category": "Bronchodilator",
+    "form": "inhaler",
+    "usage": "Asthma / bronchospasm",
+    "indications": "Asthma / bronchospasm",
+    "dosage": "2 puffs q4\u20136h PRN",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10164",
+    "stock_units": 718,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "albuterol",
+      "bronchodilator",
+      "inhaler",
+      "houston",
+      "pharmacy",
+      "m-2164",
+      "btx-htx-10164"
+    ]
+  },
+  {
+    "id": "M-2165",
+    "name": "Acetaminophen IR",
+    "category": "Analgesic",
+    "form": "tablet",
+    "usage": "Pain / fever",
+    "indications": "Pain / fever",
+    "dosage": "650\u20131000 mg q6h PRN",
+    "contraindications": [
+      "Severe hepatic impairment"
+    ],
+    "batch_id": "BTX-HTX-10165",
+    "stock_units": 569,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "acetaminophen",
+      "analgesic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2165",
+      "btx-htx-10165"
+    ]
+  },
+  {
+    "id": "M-2166",
+    "name": "Aspirin Generic",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / CAD secondary prevention",
+    "indications": "ACS / CAD secondary prevention",
+    "dosage": "81 mg daily",
+    "contraindications": [
+      "Active GI bleed",
+      "Aspirin allergy"
+    ],
+    "batch_id": "BTX-HTX-10166",
+    "stock_units": 788,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "aspirin",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2166",
+      "btx-htx-10166"
+    ]
+  },
+  {
+    "id": "M-2167",
+    "name": "Atorvastatin Hospital Pack",
+    "category": "Statin",
+    "form": "tablet",
+    "usage": "Hyperlipidemia",
+    "indications": "Hyperlipidemia",
+    "dosage": "10\u201380 mg nightly",
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10167",
+    "stock_units": 293,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "atorvastatin",
+      "statin",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2167",
+      "btx-htx-10167"
+    ]
+  },
+  {
+    "id": "M-2168",
+    "name": "Omeprazole XR",
+    "category": "PPI",
+    "form": "capsule",
+    "usage": "GERD / ulcer prophylaxis",
+    "indications": "GERD / ulcer prophylaxis",
+    "dosage": "20\u201340 mg daily",
+    "contraindications": [
+      "Hypersensitivity to PPIs"
+    ],
+    "batch_id": "BTX-HTX-10168",
+    "stock_units": 676,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "omeprazole",
+      "ppi",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2168",
+      "btx-htx-10168"
+    ]
+  },
+  {
+    "id": "M-2169",
+    "name": "Furosemide IR",
+    "category": "Loop diuretic",
+    "form": "tablet",
+    "usage": "Edema / HF",
+    "indications": "Edema / HF",
+    "dosage": "20\u201380 mg daily",
+    "contraindications": [
+      "Anuria",
+      "Severe electrolyte depletion"
+    ],
+    "batch_id": "BTX-HTX-10169",
+    "stock_units": 368,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "furosemide",
+      "loop",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2169",
+      "btx-htx-10169"
+    ]
+  },
+  {
+    "id": "M-2170",
+    "name": "Amoxicillin Generic",
+    "category": "Antibiotic",
+    "form": "capsule",
+    "usage": "Bacterial infections",
+    "indications": "Bacterial infections",
+    "dosage": "500 mg TID",
+    "contraindications": [
+      "Penicillin allergy"
+    ],
+    "batch_id": "BTX-HTX-10170",
+    "stock_units": 134,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "amoxicillin",
+      "antibiotic",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2170",
+      "btx-htx-10170"
+    ]
+  },
+  {
+    "id": "M-2171",
+    "name": "Insulin Glargine Hospital Pack",
+    "category": "Insulin",
+    "form": "injection",
+    "usage": "Diabetes basal coverage",
+    "indications": "Diabetes basal coverage",
+    "dosage": "Individualized units SQ nightly",
+    "contraindications": [
+      "Hypoglycemia risk"
+    ],
+    "batch_id": "BTX-HTX-10171",
+    "stock_units": 320,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "insulin glargine",
+      "insulin",
+      "injection",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2171",
+      "btx-htx-10171"
+    ]
+  },
+  {
+    "id": "M-2172",
+    "name": "Gabapentin XR",
+    "category": "Anticonvulsant",
+    "form": "capsule",
+    "usage": "Neuropathic pain",
+    "indications": "Neuropathic pain",
+    "dosage": "300\u2013600 mg TID",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10172",
+    "stock_units": 465,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "gabapentin",
+      "anticonvulsant",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2172",
+      "btx-htx-10172"
+    ]
+  },
+  {
+    "id": "M-2173",
+    "name": "Sertraline IR",
+    "category": "SSRI",
+    "form": "tablet",
+    "usage": "Depression / anxiety",
+    "indications": "Depression / anxiety",
+    "dosage": "50\u2013100 mg daily",
+    "contraindications": [
+      "MAOIs concurrent"
+    ],
+    "batch_id": "BTX-HTX-10173",
+    "stock_units": 181,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "sertraline",
+      "ssri",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2173",
+      "btx-htx-10173"
+    ]
+  },
+  {
+    "id": "M-2174",
+    "name": "Ondansetron Generic",
+    "category": "Antiemetic",
+    "form": "tablet",
+    "usage": "Nausea / vomiting",
+    "indications": "Nausea / vomiting",
+    "dosage": "4\u20138 mg q8h PRN",
+    "contraindications": [
+      "Congenital long QT"
+    ],
+    "batch_id": "BTX-HTX-10174",
+    "stock_units": 484,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "ondansetron",
+      "antiemetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2174",
+      "btx-htx-10174"
+    ]
+  },
+  {
+    "id": "M-2175",
+    "name": "Heparin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "injection",
+    "usage": "VTE prophylaxis",
+    "indications": "VTE prophylaxis",
+    "dosage": "5000 units SQ q8\u201312h",
+    "contraindications": [
+      "Active major bleed",
+      "HIT history"
+    ],
+    "batch_id": "BTX-HTX-10175",
+    "stock_units": 23,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "heparin",
+      "anticoagulant",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2175",
+      "btx-htx-10175"
+    ]
+  },
+  {
+    "id": "M-2176",
+    "name": "Morphine XR",
+    "category": "Opioid analgesic",
+    "form": "injection",
+    "usage": "Severe pain",
+    "indications": "Severe pain",
+    "dosage": "2\u20134 mg IV q2\u20134h PRN",
+    "contraindications": [
+      "Respiratory depression",
+      "Opioid allergy"
+    ],
+    "batch_id": "BTX-HTX-10176",
+    "stock_units": 759,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "morphine",
+      "opioid",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2176",
+      "btx-htx-10176"
+    ]
+  },
+  {
+    "id": "M-2177",
+    "name": "Prednisone IR",
+    "category": "Corticosteroid",
+    "form": "tablet",
+    "usage": "Inflammation / asthma flare",
+    "indications": "Inflammation / asthma flare",
+    "dosage": "5\u201360 mg daily taper",
+    "contraindications": [
+      "Systemic fungal infection"
+    ],
+    "batch_id": "BTX-HTX-10177",
+    "stock_units": 756,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "prednisone",
+      "corticosteroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2177",
+      "btx-htx-10177"
+    ]
+  },
+  {
+    "id": "M-2178",
+    "name": "Levothyroxine Generic",
+    "category": "Thyroid hormone",
+    "form": "tablet",
+    "usage": "Hypothyroidism",
+    "indications": "Hypothyroidism",
+    "dosage": "25\u2013125 mcg daily",
+    "contraindications": [
+      "Untreated thyrotoxicosis"
+    ],
+    "batch_id": "BTX-HTX-10178",
+    "stock_units": 289,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "levothyroxine",
+      "thyroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2178",
+      "btx-htx-10178"
+    ]
+  },
+  {
+    "id": "M-2179",
+    "name": "Clopidogrel Hospital Pack",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / stent",
+    "indications": "ACS / stent",
+    "dosage": "75 mg daily",
+    "contraindications": [
+      "Active bleeding"
+    ],
+    "batch_id": "BTX-HTX-10179",
+    "stock_units": 532,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "clopidogrel",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2179",
+      "btx-htx-10179"
+    ]
+  },
+  {
+    "id": "M-2180",
+    "name": "Metformin XR",
+    "category": "Antidiabetic",
+    "form": "tablet",
+    "usage": "Type 2 diabetes",
+    "indications": "Type 2 diabetes",
+    "dosage": "500\u20131000 mg BID with meals",
+    "contraindications": [
+      "eGFR < 30",
+      "Metabolic acidosis"
+    ],
+    "batch_id": "BTX-HTX-10180",
+    "stock_units": 800,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "metformin",
+      "antidiabetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2180",
+      "btx-htx-10180"
+    ]
+  },
+  {
+    "id": "M-2181",
+    "name": "Lisinopril IR",
+    "category": "ACE Inhibitor",
+    "form": "tablet",
+    "usage": "Hypertension / HF",
+    "indications": "Hypertension / HF",
+    "dosage": "10\u201340 mg daily",
+    "contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "batch_id": "BTX-HTX-10181",
+    "stock_units": 202,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "lisinopril",
+      "ace",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2181",
+      "btx-htx-10181"
+    ]
+  },
+  {
+    "id": "M-2182",
+    "name": "Azithromycin Generic",
+    "category": "Antibiotic",
+    "form": "tablet",
+    "usage": "CAP / atypical infections",
+    "indications": "CAP / atypical infections",
+    "dosage": "500 mg day 1 then 250 mg x4d",
+    "contraindications": [
+      "Macrolide allergy"
+    ],
+    "batch_id": "BTX-HTX-10182",
+    "stock_units": 539,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "azithromycin",
+      "antibiotic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2182",
+      "btx-htx-10182"
+    ]
+  },
+  {
+    "id": "M-2183",
+    "name": "Warfarin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "tablet",
+    "usage": "AF stroke prevention / VTE",
+    "indications": "AF stroke prevention / VTE",
+    "dosage": "2\u20135 mg daily titrated to INR",
+    "contraindications": [
+      "Active bleeding",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10183",
+    "stock_units": 128,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "warfarin",
+      "anticoagulant",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2183",
+      "btx-htx-10183"
+    ]
+  },
+  {
+    "id": "M-2184",
+    "name": "Albuterol XR",
+    "category": "Bronchodilator",
+    "form": "inhaler",
+    "usage": "Asthma / bronchospasm",
+    "indications": "Asthma / bronchospasm",
+    "dosage": "2 puffs q4\u20136h PRN",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10184",
+    "stock_units": 660,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "albuterol",
+      "bronchodilator",
+      "inhaler",
+      "houston",
+      "pharmacy",
+      "m-2184",
+      "btx-htx-10184"
+    ]
+  },
+  {
+    "id": "M-2185",
+    "name": "Acetaminophen IR",
+    "category": "Analgesic",
+    "form": "tablet",
+    "usage": "Pain / fever",
+    "indications": "Pain / fever",
+    "dosage": "650\u20131000 mg q6h PRN",
+    "contraindications": [
+      "Severe hepatic impairment"
+    ],
+    "batch_id": "BTX-HTX-10185",
+    "stock_units": 325,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "acetaminophen",
+      "analgesic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2185",
+      "btx-htx-10185"
+    ]
+  },
+  {
+    "id": "M-2186",
+    "name": "Aspirin Generic",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / CAD secondary prevention",
+    "indications": "ACS / CAD secondary prevention",
+    "dosage": "81 mg daily",
+    "contraindications": [
+      "Active GI bleed",
+      "Aspirin allergy"
+    ],
+    "batch_id": "BTX-HTX-10186",
+    "stock_units": 674,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "aspirin",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2186",
+      "btx-htx-10186"
+    ]
+  },
+  {
+    "id": "M-2187",
+    "name": "Atorvastatin Hospital Pack",
+    "category": "Statin",
+    "form": "tablet",
+    "usage": "Hyperlipidemia",
+    "indications": "Hyperlipidemia",
+    "dosage": "10\u201380 mg nightly",
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10187",
+    "stock_units": 539,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "atorvastatin",
+      "statin",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2187",
+      "btx-htx-10187"
+    ]
+  },
+  {
+    "id": "M-2188",
+    "name": "Omeprazole XR",
+    "category": "PPI",
+    "form": "capsule",
+    "usage": "GERD / ulcer prophylaxis",
+    "indications": "GERD / ulcer prophylaxis",
+    "dosage": "20\u201340 mg daily",
+    "contraindications": [
+      "Hypersensitivity to PPIs"
+    ],
+    "batch_id": "BTX-HTX-10188",
+    "stock_units": 643,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "omeprazole",
+      "ppi",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2188",
+      "btx-htx-10188"
+    ]
+  },
+  {
+    "id": "M-2189",
+    "name": "Furosemide IR",
+    "category": "Loop diuretic",
+    "form": "tablet",
+    "usage": "Edema / HF",
+    "indications": "Edema / HF",
+    "dosage": "20\u201380 mg daily",
+    "contraindications": [
+      "Anuria",
+      "Severe electrolyte depletion"
+    ],
+    "batch_id": "BTX-HTX-10189",
+    "stock_units": 223,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "furosemide",
+      "loop",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2189",
+      "btx-htx-10189"
+    ]
+  },
+  {
+    "id": "M-2190",
+    "name": "Amoxicillin Generic",
+    "category": "Antibiotic",
+    "form": "capsule",
+    "usage": "Bacterial infections",
+    "indications": "Bacterial infections",
+    "dosage": "500 mg TID",
+    "contraindications": [
+      "Penicillin allergy"
+    ],
+    "batch_id": "BTX-HTX-10190",
+    "stock_units": 176,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "amoxicillin",
+      "antibiotic",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2190",
+      "btx-htx-10190"
+    ]
+  },
+  {
+    "id": "M-2191",
+    "name": "Insulin Glargine Hospital Pack",
+    "category": "Insulin",
+    "form": "injection",
+    "usage": "Diabetes basal coverage",
+    "indications": "Diabetes basal coverage",
+    "dosage": "Individualized units SQ nightly",
+    "contraindications": [
+      "Hypoglycemia risk"
+    ],
+    "batch_id": "BTX-HTX-10191",
+    "stock_units": 402,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "insulin glargine",
+      "insulin",
+      "injection",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2191",
+      "btx-htx-10191"
+    ]
+  },
+  {
+    "id": "M-2192",
+    "name": "Gabapentin XR",
+    "category": "Anticonvulsant",
+    "form": "capsule",
+    "usage": "Neuropathic pain",
+    "indications": "Neuropathic pain",
+    "dosage": "300\u2013600 mg TID",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10192",
+    "stock_units": 800,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "gabapentin",
+      "anticonvulsant",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2192",
+      "btx-htx-10192"
+    ]
+  },
+  {
+    "id": "M-2193",
+    "name": "Sertraline IR",
+    "category": "SSRI",
+    "form": "tablet",
+    "usage": "Depression / anxiety",
+    "indications": "Depression / anxiety",
+    "dosage": "50\u2013100 mg daily",
+    "contraindications": [
+      "MAOIs concurrent"
+    ],
+    "batch_id": "BTX-HTX-10193",
+    "stock_units": 185,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "sertraline",
+      "ssri",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2193",
+      "btx-htx-10193"
+    ]
+  },
+  {
+    "id": "M-2194",
+    "name": "Ondansetron Generic",
+    "category": "Antiemetic",
+    "form": "tablet",
+    "usage": "Nausea / vomiting",
+    "indications": "Nausea / vomiting",
+    "dosage": "4\u20138 mg q8h PRN",
+    "contraindications": [
+      "Congenital long QT"
+    ],
+    "batch_id": "BTX-HTX-10194",
+    "stock_units": 572,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "ondansetron",
+      "antiemetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2194",
+      "btx-htx-10194"
+    ]
+  },
+  {
+    "id": "M-2195",
+    "name": "Heparin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "injection",
+    "usage": "VTE prophylaxis",
+    "indications": "VTE prophylaxis",
+    "dosage": "5000 units SQ q8\u201312h",
+    "contraindications": [
+      "Active major bleed",
+      "HIT history"
+    ],
+    "batch_id": "BTX-HTX-10195",
+    "stock_units": 563,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "heparin",
+      "anticoagulant",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2195",
+      "btx-htx-10195"
+    ]
+  },
+  {
+    "id": "M-2196",
+    "name": "Morphine XR",
+    "category": "Opioid analgesic",
+    "form": "injection",
+    "usage": "Severe pain",
+    "indications": "Severe pain",
+    "dosage": "2\u20134 mg IV q2\u20134h PRN",
+    "contraindications": [
+      "Respiratory depression",
+      "Opioid allergy"
+    ],
+    "batch_id": "BTX-HTX-10196",
+    "stock_units": 20,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "morphine",
+      "opioid",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2196",
+      "btx-htx-10196"
+    ]
+  },
+  {
+    "id": "M-2197",
+    "name": "Prednisone IR",
+    "category": "Corticosteroid",
+    "form": "tablet",
+    "usage": "Inflammation / asthma flare",
+    "indications": "Inflammation / asthma flare",
+    "dosage": "5\u201360 mg daily taper",
+    "contraindications": [
+      "Systemic fungal infection"
+    ],
+    "batch_id": "BTX-HTX-10197",
+    "stock_units": 633,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "prednisone",
+      "corticosteroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2197",
+      "btx-htx-10197"
+    ]
+  },
+  {
+    "id": "M-2198",
+    "name": "Levothyroxine Generic",
+    "category": "Thyroid hormone",
+    "form": "tablet",
+    "usage": "Hypothyroidism",
+    "indications": "Hypothyroidism",
+    "dosage": "25\u2013125 mcg daily",
+    "contraindications": [
+      "Untreated thyrotoxicosis"
+    ],
+    "batch_id": "BTX-HTX-10198",
+    "stock_units": 351,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "levothyroxine",
+      "thyroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2198",
+      "btx-htx-10198"
+    ]
+  },
+  {
+    "id": "M-2199",
+    "name": "Clopidogrel Hospital Pack",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / stent",
+    "indications": "ACS / stent",
+    "dosage": "75 mg daily",
+    "contraindications": [
+      "Active bleeding"
+    ],
+    "batch_id": "BTX-HTX-10199",
+    "stock_units": 520,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "clopidogrel",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2199",
+      "btx-htx-10199"
+    ]
+  },
+  {
+    "id": "M-2200",
+    "name": "Metformin XR",
+    "category": "Antidiabetic",
+    "form": "tablet",
+    "usage": "Type 2 diabetes",
+    "indications": "Type 2 diabetes",
+    "dosage": "500\u20131000 mg BID with meals",
+    "contraindications": [
+      "eGFR < 30",
+      "Metabolic acidosis"
+    ],
+    "batch_id": "BTX-HTX-10200",
+    "stock_units": 39,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "metformin",
+      "antidiabetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2200",
+      "btx-htx-10200"
+    ]
+  },
+  {
+    "id": "M-2201",
+    "name": "Lisinopril IR",
+    "category": "ACE Inhibitor",
+    "form": "tablet",
+    "usage": "Hypertension / HF",
+    "indications": "Hypertension / HF",
+    "dosage": "10\u201340 mg daily",
+    "contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "batch_id": "BTX-HTX-10201",
+    "stock_units": 134,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "lisinopril",
+      "ace",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2201",
+      "btx-htx-10201"
+    ]
+  },
+  {
+    "id": "M-2202",
+    "name": "Azithromycin Generic",
+    "category": "Antibiotic",
+    "form": "tablet",
+    "usage": "CAP / atypical infections",
+    "indications": "CAP / atypical infections",
+    "dosage": "500 mg day 1 then 250 mg x4d",
+    "contraindications": [
+      "Macrolide allergy"
+    ],
+    "batch_id": "BTX-HTX-10202",
+    "stock_units": 391,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "azithromycin",
+      "antibiotic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2202",
+      "btx-htx-10202"
+    ]
+  },
+  {
+    "id": "M-2203",
+    "name": "Warfarin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "tablet",
+    "usage": "AF stroke prevention / VTE",
+    "indications": "AF stroke prevention / VTE",
+    "dosage": "2\u20135 mg daily titrated to INR",
+    "contraindications": [
+      "Active bleeding",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10203",
+    "stock_units": 334,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "warfarin",
+      "anticoagulant",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2203",
+      "btx-htx-10203"
+    ]
+  },
+  {
+    "id": "M-2204",
+    "name": "Albuterol XR",
+    "category": "Bronchodilator",
+    "form": "inhaler",
+    "usage": "Asthma / bronchospasm",
+    "indications": "Asthma / bronchospasm",
+    "dosage": "2 puffs q4\u20136h PRN",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10204",
+    "stock_units": 265,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "albuterol",
+      "bronchodilator",
+      "inhaler",
+      "houston",
+      "pharmacy",
+      "m-2204",
+      "btx-htx-10204"
+    ]
+  },
+  {
+    "id": "M-2205",
+    "name": "Acetaminophen IR",
+    "category": "Analgesic",
+    "form": "tablet",
+    "usage": "Pain / fever",
+    "indications": "Pain / fever",
+    "dosage": "650\u20131000 mg q6h PRN",
+    "contraindications": [
+      "Severe hepatic impairment"
+    ],
+    "batch_id": "BTX-HTX-10205",
+    "stock_units": 79,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "acetaminophen",
+      "analgesic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2205",
+      "btx-htx-10205"
+    ]
+  },
+  {
+    "id": "M-2206",
+    "name": "Aspirin Generic",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / CAD secondary prevention",
+    "indications": "ACS / CAD secondary prevention",
+    "dosage": "81 mg daily",
+    "contraindications": [
+      "Active GI bleed",
+      "Aspirin allergy"
+    ],
+    "batch_id": "BTX-HTX-10206",
+    "stock_units": 266,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "aspirin",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2206",
+      "btx-htx-10206"
+    ]
+  },
+  {
+    "id": "M-2207",
+    "name": "Atorvastatin Hospital Pack",
+    "category": "Statin",
+    "form": "tablet",
+    "usage": "Hyperlipidemia",
+    "indications": "Hyperlipidemia",
+    "dosage": "10\u201380 mg nightly",
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10207",
+    "stock_units": 600,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "atorvastatin",
+      "statin",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2207",
+      "btx-htx-10207"
+    ]
+  },
+  {
+    "id": "M-2208",
+    "name": "Omeprazole XR",
+    "category": "PPI",
+    "form": "capsule",
+    "usage": "GERD / ulcer prophylaxis",
+    "indications": "GERD / ulcer prophylaxis",
+    "dosage": "20\u201340 mg daily",
+    "contraindications": [
+      "Hypersensitivity to PPIs"
+    ],
+    "batch_id": "BTX-HTX-10208",
+    "stock_units": 100,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "omeprazole",
+      "ppi",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2208",
+      "btx-htx-10208"
+    ]
+  },
+  {
+    "id": "M-2209",
+    "name": "Furosemide IR",
+    "category": "Loop diuretic",
+    "form": "tablet",
+    "usage": "Edema / HF",
+    "indications": "Edema / HF",
+    "dosage": "20\u201380 mg daily",
+    "contraindications": [
+      "Anuria",
+      "Severe electrolyte depletion"
+    ],
+    "batch_id": "BTX-HTX-10209",
+    "stock_units": 107,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "furosemide",
+      "loop",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2209",
+      "btx-htx-10209"
+    ]
+  },
+  {
+    "id": "M-2210",
+    "name": "Amoxicillin Generic",
+    "category": "Antibiotic",
+    "form": "capsule",
+    "usage": "Bacterial infections",
+    "indications": "Bacterial infections",
+    "dosage": "500 mg TID",
+    "contraindications": [
+      "Penicillin allergy"
+    ],
+    "batch_id": "BTX-HTX-10210",
+    "stock_units": 769,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "amoxicillin",
+      "antibiotic",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2210",
+      "btx-htx-10210"
+    ]
+  },
+  {
+    "id": "M-2211",
+    "name": "Insulin Glargine Hospital Pack",
+    "category": "Insulin",
+    "form": "injection",
+    "usage": "Diabetes basal coverage",
+    "indications": "Diabetes basal coverage",
+    "dosage": "Individualized units SQ nightly",
+    "contraindications": [
+      "Hypoglycemia risk"
+    ],
+    "batch_id": "BTX-HTX-10211",
+    "stock_units": 517,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "insulin glargine",
+      "insulin",
+      "injection",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2211",
+      "btx-htx-10211"
+    ]
+  },
+  {
+    "id": "M-2212",
+    "name": "Gabapentin XR",
+    "category": "Anticonvulsant",
+    "form": "capsule",
+    "usage": "Neuropathic pain",
+    "indications": "Neuropathic pain",
+    "dosage": "300\u2013600 mg TID",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10212",
+    "stock_units": 90,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "gabapentin",
+      "anticonvulsant",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2212",
+      "btx-htx-10212"
+    ]
+  },
+  {
+    "id": "M-2213",
+    "name": "Sertraline IR",
+    "category": "SSRI",
+    "form": "tablet",
+    "usage": "Depression / anxiety",
+    "indications": "Depression / anxiety",
+    "dosage": "50\u2013100 mg daily",
+    "contraindications": [
+      "MAOIs concurrent"
+    ],
+    "batch_id": "BTX-HTX-10213",
+    "stock_units": 798,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "sertraline",
+      "ssri",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2213",
+      "btx-htx-10213"
+    ]
+  },
+  {
+    "id": "M-2214",
+    "name": "Ondansetron Generic",
+    "category": "Antiemetic",
+    "form": "tablet",
+    "usage": "Nausea / vomiting",
+    "indications": "Nausea / vomiting",
+    "dosage": "4\u20138 mg q8h PRN",
+    "contraindications": [
+      "Congenital long QT"
+    ],
+    "batch_id": "BTX-HTX-10214",
+    "stock_units": 565,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "ondansetron",
+      "antiemetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2214",
+      "btx-htx-10214"
+    ]
+  },
+  {
+    "id": "M-2215",
+    "name": "Heparin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "injection",
+    "usage": "VTE prophylaxis",
+    "indications": "VTE prophylaxis",
+    "dosage": "5000 units SQ q8\u201312h",
+    "contraindications": [
+      "Active major bleed",
+      "HIT history"
+    ],
+    "batch_id": "BTX-HTX-10215",
+    "stock_units": 148,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "heparin",
+      "anticoagulant",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2215",
+      "btx-htx-10215"
+    ]
+  },
+  {
+    "id": "M-2216",
+    "name": "Morphine XR",
+    "category": "Opioid analgesic",
+    "form": "injection",
+    "usage": "Severe pain",
+    "indications": "Severe pain",
+    "dosage": "2\u20134 mg IV q2\u20134h PRN",
+    "contraindications": [
+      "Respiratory depression",
+      "Opioid allergy"
+    ],
+    "batch_id": "BTX-HTX-10216",
+    "stock_units": 151,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "morphine",
+      "opioid",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2216",
+      "btx-htx-10216"
+    ]
+  },
+  {
+    "id": "M-2217",
+    "name": "Prednisone IR",
+    "category": "Corticosteroid",
+    "form": "tablet",
+    "usage": "Inflammation / asthma flare",
+    "indications": "Inflammation / asthma flare",
+    "dosage": "5\u201360 mg daily taper",
+    "contraindications": [
+      "Systemic fungal infection"
+    ],
+    "batch_id": "BTX-HTX-10217",
+    "stock_units": 695,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "prednisone",
+      "corticosteroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2217",
+      "btx-htx-10217"
+    ]
+  },
+  {
+    "id": "M-2218",
+    "name": "Levothyroxine Generic",
+    "category": "Thyroid hormone",
+    "form": "tablet",
+    "usage": "Hypothyroidism",
+    "indications": "Hypothyroidism",
+    "dosage": "25\u2013125 mcg daily",
+    "contraindications": [
+      "Untreated thyrotoxicosis"
+    ],
+    "batch_id": "BTX-HTX-10218",
+    "stock_units": 506,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "levothyroxine",
+      "thyroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2218",
+      "btx-htx-10218"
+    ]
+  },
+  {
+    "id": "M-2219",
+    "name": "Clopidogrel Hospital Pack",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / stent",
+    "indications": "ACS / stent",
+    "dosage": "75 mg daily",
+    "contraindications": [
+      "Active bleeding"
+    ],
+    "batch_id": "BTX-HTX-10219",
+    "stock_units": 582,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "clopidogrel",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2219",
+      "btx-htx-10219"
+    ]
+  },
+  {
+    "id": "M-2220",
+    "name": "Metformin XR",
+    "category": "Antidiabetic",
+    "form": "tablet",
+    "usage": "Type 2 diabetes",
+    "indications": "Type 2 diabetes",
+    "dosage": "500\u20131000 mg BID with meals",
+    "contraindications": [
+      "eGFR < 30",
+      "Metabolic acidosis"
+    ],
+    "batch_id": "BTX-HTX-10220",
+    "stock_units": 189,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "metformin",
+      "antidiabetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2220",
+      "btx-htx-10220"
+    ]
+  },
+  {
+    "id": "M-2221",
+    "name": "Lisinopril IR",
+    "category": "ACE Inhibitor",
+    "form": "tablet",
+    "usage": "Hypertension / HF",
+    "indications": "Hypertension / HF",
+    "dosage": "10\u201340 mg daily",
+    "contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "batch_id": "BTX-HTX-10221",
+    "stock_units": 291,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "lisinopril",
+      "ace",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2221",
+      "btx-htx-10221"
+    ]
+  },
+  {
+    "id": "M-2222",
+    "name": "Azithromycin Generic",
+    "category": "Antibiotic",
+    "form": "tablet",
+    "usage": "CAP / atypical infections",
+    "indications": "CAP / atypical infections",
+    "dosage": "500 mg day 1 then 250 mg x4d",
+    "contraindications": [
+      "Macrolide allergy"
+    ],
+    "batch_id": "BTX-HTX-10222",
+    "stock_units": 560,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "azithromycin",
+      "antibiotic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2222",
+      "btx-htx-10222"
+    ]
+  },
+  {
+    "id": "M-2223",
+    "name": "Warfarin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "tablet",
+    "usage": "AF stroke prevention / VTE",
+    "indications": "AF stroke prevention / VTE",
+    "dosage": "2\u20135 mg daily titrated to INR",
+    "contraindications": [
+      "Active bleeding",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10223",
+    "stock_units": 641,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "warfarin",
+      "anticoagulant",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2223",
+      "btx-htx-10223"
+    ]
+  },
+  {
+    "id": "M-2224",
+    "name": "Albuterol XR",
+    "category": "Bronchodilator",
+    "form": "inhaler",
+    "usage": "Asthma / bronchospasm",
+    "indications": "Asthma / bronchospasm",
+    "dosage": "2 puffs q4\u20136h PRN",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10224",
+    "stock_units": 453,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "albuterol",
+      "bronchodilator",
+      "inhaler",
+      "houston",
+      "pharmacy",
+      "m-2224",
+      "btx-htx-10224"
+    ]
+  },
+  {
+    "id": "M-2225",
+    "name": "Acetaminophen IR",
+    "category": "Analgesic",
+    "form": "tablet",
+    "usage": "Pain / fever",
+    "indications": "Pain / fever",
+    "dosage": "650\u20131000 mg q6h PRN",
+    "contraindications": [
+      "Severe hepatic impairment"
+    ],
+    "batch_id": "BTX-HTX-10225",
+    "stock_units": 236,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "acetaminophen",
+      "analgesic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2225",
+      "btx-htx-10225"
+    ]
+  },
+  {
+    "id": "M-2226",
+    "name": "Aspirin Generic",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / CAD secondary prevention",
+    "indications": "ACS / CAD secondary prevention",
+    "dosage": "81 mg daily",
+    "contraindications": [
+      "Active GI bleed",
+      "Aspirin allergy"
+    ],
+    "batch_id": "BTX-HTX-10226",
+    "stock_units": 572,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "aspirin",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2226",
+      "btx-htx-10226"
+    ]
+  },
+  {
+    "id": "M-2227",
+    "name": "Atorvastatin Hospital Pack",
+    "category": "Statin",
+    "form": "tablet",
+    "usage": "Hyperlipidemia",
+    "indications": "Hyperlipidemia",
+    "dosage": "10\u201380 mg nightly",
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10227",
+    "stock_units": 793,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "atorvastatin",
+      "statin",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2227",
+      "btx-htx-10227"
+    ]
+  },
+  {
+    "id": "M-2228",
+    "name": "Omeprazole XR",
+    "category": "PPI",
+    "form": "capsule",
+    "usage": "GERD / ulcer prophylaxis",
+    "indications": "GERD / ulcer prophylaxis",
+    "dosage": "20\u201340 mg daily",
+    "contraindications": [
+      "Hypersensitivity to PPIs"
+    ],
+    "batch_id": "BTX-HTX-10228",
+    "stock_units": 767,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "omeprazole",
+      "ppi",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2228",
+      "btx-htx-10228"
+    ]
+  },
+  {
+    "id": "M-2229",
+    "name": "Furosemide IR",
+    "category": "Loop diuretic",
+    "form": "tablet",
+    "usage": "Edema / HF",
+    "indications": "Edema / HF",
+    "dosage": "20\u201380 mg daily",
+    "contraindications": [
+      "Anuria",
+      "Severe electrolyte depletion"
+    ],
+    "batch_id": "BTX-HTX-10229",
+    "stock_units": 726,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "furosemide",
+      "loop",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2229",
+      "btx-htx-10229"
+    ]
+  },
+  {
+    "id": "M-2230",
+    "name": "Amoxicillin Generic",
+    "category": "Antibiotic",
+    "form": "capsule",
+    "usage": "Bacterial infections",
+    "indications": "Bacterial infections",
+    "dosage": "500 mg TID",
+    "contraindications": [
+      "Penicillin allergy"
+    ],
+    "batch_id": "BTX-HTX-10230",
+    "stock_units": 225,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "amoxicillin",
+      "antibiotic",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2230",
+      "btx-htx-10230"
+    ]
+  },
+  {
+    "id": "M-2231",
+    "name": "Insulin Glargine Hospital Pack",
+    "category": "Insulin",
+    "form": "injection",
+    "usage": "Diabetes basal coverage",
+    "indications": "Diabetes basal coverage",
+    "dosage": "Individualized units SQ nightly",
+    "contraindications": [
+      "Hypoglycemia risk"
+    ],
+    "batch_id": "BTX-HTX-10231",
+    "stock_units": 750,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "insulin glargine",
+      "insulin",
+      "injection",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2231",
+      "btx-htx-10231"
+    ]
+  },
+  {
+    "id": "M-2232",
+    "name": "Gabapentin XR",
+    "category": "Anticonvulsant",
+    "form": "capsule",
+    "usage": "Neuropathic pain",
+    "indications": "Neuropathic pain",
+    "dosage": "300\u2013600 mg TID",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10232",
+    "stock_units": 339,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "gabapentin",
+      "anticonvulsant",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2232",
+      "btx-htx-10232"
+    ]
+  },
+  {
+    "id": "M-2233",
+    "name": "Sertraline IR",
+    "category": "SSRI",
+    "form": "tablet",
+    "usage": "Depression / anxiety",
+    "indications": "Depression / anxiety",
+    "dosage": "50\u2013100 mg daily",
+    "contraindications": [
+      "MAOIs concurrent"
+    ],
+    "batch_id": "BTX-HTX-10233",
+    "stock_units": 428,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "sertraline",
+      "ssri",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2233",
+      "btx-htx-10233"
+    ]
+  },
+  {
+    "id": "M-2234",
+    "name": "Ondansetron Generic",
+    "category": "Antiemetic",
+    "form": "tablet",
+    "usage": "Nausea / vomiting",
+    "indications": "Nausea / vomiting",
+    "dosage": "4\u20138 mg q8h PRN",
+    "contraindications": [
+      "Congenital long QT"
+    ],
+    "batch_id": "BTX-HTX-10234",
+    "stock_units": 707,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "ondansetron",
+      "antiemetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2234",
+      "btx-htx-10234"
+    ]
+  },
+  {
+    "id": "M-2235",
+    "name": "Heparin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "injection",
+    "usage": "VTE prophylaxis",
+    "indications": "VTE prophylaxis",
+    "dosage": "5000 units SQ q8\u201312h",
+    "contraindications": [
+      "Active major bleed",
+      "HIT history"
+    ],
+    "batch_id": "BTX-HTX-10235",
+    "stock_units": 685,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "heparin",
+      "anticoagulant",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2235",
+      "btx-htx-10235"
+    ]
+  },
+  {
+    "id": "M-2236",
+    "name": "Morphine XR",
+    "category": "Opioid analgesic",
+    "form": "injection",
+    "usage": "Severe pain",
+    "indications": "Severe pain",
+    "dosage": "2\u20134 mg IV q2\u20134h PRN",
+    "contraindications": [
+      "Respiratory depression",
+      "Opioid allergy"
+    ],
+    "batch_id": "BTX-HTX-10236",
+    "stock_units": 402,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "morphine",
+      "opioid",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2236",
+      "btx-htx-10236"
+    ]
+  },
+  {
+    "id": "M-2237",
+    "name": "Prednisone IR",
+    "category": "Corticosteroid",
+    "form": "tablet",
+    "usage": "Inflammation / asthma flare",
+    "indications": "Inflammation / asthma flare",
+    "dosage": "5\u201360 mg daily taper",
+    "contraindications": [
+      "Systemic fungal infection"
+    ],
+    "batch_id": "BTX-HTX-10237",
+    "stock_units": 468,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "prednisone",
+      "corticosteroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2237",
+      "btx-htx-10237"
+    ]
+  },
+  {
+    "id": "M-2238",
+    "name": "Levothyroxine Generic",
+    "category": "Thyroid hormone",
+    "form": "tablet",
+    "usage": "Hypothyroidism",
+    "indications": "Hypothyroidism",
+    "dosage": "25\u2013125 mcg daily",
+    "contraindications": [
+      "Untreated thyrotoxicosis"
+    ],
+    "batch_id": "BTX-HTX-10238",
+    "stock_units": 549,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "levothyroxine",
+      "thyroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2238",
+      "btx-htx-10238"
+    ]
+  },
+  {
+    "id": "M-2239",
+    "name": "Clopidogrel Hospital Pack",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / stent",
+    "indications": "ACS / stent",
+    "dosage": "75 mg daily",
+    "contraindications": [
+      "Active bleeding"
+    ],
+    "batch_id": "BTX-HTX-10239",
+    "stock_units": 482,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "clopidogrel",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2239",
+      "btx-htx-10239"
+    ]
+  },
+  {
+    "id": "M-2240",
+    "name": "Metformin XR",
+    "category": "Antidiabetic",
+    "form": "tablet",
+    "usage": "Type 2 diabetes",
+    "indications": "Type 2 diabetes",
+    "dosage": "500\u20131000 mg BID with meals",
+    "contraindications": [
+      "eGFR < 30",
+      "Metabolic acidosis"
+    ],
+    "batch_id": "BTX-HTX-10240",
+    "stock_units": 143,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "metformin",
+      "antidiabetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2240",
+      "btx-htx-10240"
+    ]
+  },
+  {
+    "id": "M-2241",
+    "name": "Lisinopril IR",
+    "category": "ACE Inhibitor",
+    "form": "tablet",
+    "usage": "Hypertension / HF",
+    "indications": "Hypertension / HF",
+    "dosage": "10\u201340 mg daily",
+    "contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "batch_id": "BTX-HTX-10241",
+    "stock_units": 273,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "lisinopril",
+      "ace",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2241",
+      "btx-htx-10241"
+    ]
+  },
+  {
+    "id": "M-2242",
+    "name": "Azithromycin Generic",
+    "category": "Antibiotic",
+    "form": "tablet",
+    "usage": "CAP / atypical infections",
+    "indications": "CAP / atypical infections",
+    "dosage": "500 mg day 1 then 250 mg x4d",
+    "contraindications": [
+      "Macrolide allergy"
+    ],
+    "batch_id": "BTX-HTX-10242",
+    "stock_units": 250,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "azithromycin",
+      "antibiotic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2242",
+      "btx-htx-10242"
+    ]
+  },
+  {
+    "id": "M-2243",
+    "name": "Warfarin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "tablet",
+    "usage": "AF stroke prevention / VTE",
+    "indications": "AF stroke prevention / VTE",
+    "dosage": "2\u20135 mg daily titrated to INR",
+    "contraindications": [
+      "Active bleeding",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10243",
+    "stock_units": 85,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "warfarin",
+      "anticoagulant",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2243",
+      "btx-htx-10243"
+    ]
+  },
+  {
+    "id": "M-2244",
+    "name": "Albuterol XR",
+    "category": "Bronchodilator",
+    "form": "inhaler",
+    "usage": "Asthma / bronchospasm",
+    "indications": "Asthma / bronchospasm",
+    "dosage": "2 puffs q4\u20136h PRN",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10244",
+    "stock_units": 366,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "albuterol",
+      "bronchodilator",
+      "inhaler",
+      "houston",
+      "pharmacy",
+      "m-2244",
+      "btx-htx-10244"
+    ]
+  },
+  {
+    "id": "M-2245",
+    "name": "Acetaminophen IR",
+    "category": "Analgesic",
+    "form": "tablet",
+    "usage": "Pain / fever",
+    "indications": "Pain / fever",
+    "dosage": "650\u20131000 mg q6h PRN",
+    "contraindications": [
+      "Severe hepatic impairment"
+    ],
+    "batch_id": "BTX-HTX-10245",
+    "stock_units": 41,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "acetaminophen",
+      "analgesic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2245",
+      "btx-htx-10245"
+    ]
+  },
+  {
+    "id": "M-2246",
+    "name": "Aspirin Generic",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / CAD secondary prevention",
+    "indications": "ACS / CAD secondary prevention",
+    "dosage": "81 mg daily",
+    "contraindications": [
+      "Active GI bleed",
+      "Aspirin allergy"
+    ],
+    "batch_id": "BTX-HTX-10246",
+    "stock_units": 622,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "aspirin",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2246",
+      "btx-htx-10246"
+    ]
+  },
+  {
+    "id": "M-2247",
+    "name": "Atorvastatin Hospital Pack",
+    "category": "Statin",
+    "form": "tablet",
+    "usage": "Hyperlipidemia",
+    "indications": "Hyperlipidemia",
+    "dosage": "10\u201380 mg nightly",
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10247",
+    "stock_units": 587,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "atorvastatin",
+      "statin",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2247",
+      "btx-htx-10247"
+    ]
+  },
+  {
+    "id": "M-2248",
+    "name": "Omeprazole XR",
+    "category": "PPI",
+    "form": "capsule",
+    "usage": "GERD / ulcer prophylaxis",
+    "indications": "GERD / ulcer prophylaxis",
+    "dosage": "20\u201340 mg daily",
+    "contraindications": [
+      "Hypersensitivity to PPIs"
+    ],
+    "batch_id": "BTX-HTX-10248",
+    "stock_units": 255,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "omeprazole",
+      "ppi",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2248",
+      "btx-htx-10248"
+    ]
+  },
+  {
+    "id": "M-2249",
+    "name": "Furosemide IR",
+    "category": "Loop diuretic",
+    "form": "tablet",
+    "usage": "Edema / HF",
+    "indications": "Edema / HF",
+    "dosage": "20\u201380 mg daily",
+    "contraindications": [
+      "Anuria",
+      "Severe electrolyte depletion"
+    ],
+    "batch_id": "BTX-HTX-10249",
+    "stock_units": 622,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "furosemide",
+      "loop",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2249",
+      "btx-htx-10249"
+    ]
+  },
+  {
+    "id": "M-2250",
+    "name": "Amoxicillin Generic",
+    "category": "Antibiotic",
+    "form": "capsule",
+    "usage": "Bacterial infections",
+    "indications": "Bacterial infections",
+    "dosage": "500 mg TID",
+    "contraindications": [
+      "Penicillin allergy"
+    ],
+    "batch_id": "BTX-HTX-10250",
+    "stock_units": 245,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "amoxicillin",
+      "antibiotic",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2250",
+      "btx-htx-10250"
+    ]
+  },
+  {
+    "id": "M-2251",
+    "name": "Insulin Glargine Hospital Pack",
+    "category": "Insulin",
+    "form": "injection",
+    "usage": "Diabetes basal coverage",
+    "indications": "Diabetes basal coverage",
+    "dosage": "Individualized units SQ nightly",
+    "contraindications": [
+      "Hypoglycemia risk"
+    ],
+    "batch_id": "BTX-HTX-10251",
+    "stock_units": 27,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "insulin glargine",
+      "insulin",
+      "injection",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2251",
+      "btx-htx-10251"
+    ]
+  },
+  {
+    "id": "M-2252",
+    "name": "Gabapentin XR",
+    "category": "Anticonvulsant",
+    "form": "capsule",
+    "usage": "Neuropathic pain",
+    "indications": "Neuropathic pain",
+    "dosage": "300\u2013600 mg TID",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10252",
+    "stock_units": 92,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "gabapentin",
+      "anticonvulsant",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2252",
+      "btx-htx-10252"
+    ]
+  },
+  {
+    "id": "M-2253",
+    "name": "Sertraline IR",
+    "category": "SSRI",
+    "form": "tablet",
+    "usage": "Depression / anxiety",
+    "indications": "Depression / anxiety",
+    "dosage": "50\u2013100 mg daily",
+    "contraindications": [
+      "MAOIs concurrent"
+    ],
+    "batch_id": "BTX-HTX-10253",
+    "stock_units": 744,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "sertraline",
+      "ssri",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2253",
+      "btx-htx-10253"
+    ]
+  },
+  {
+    "id": "M-2254",
+    "name": "Ondansetron Generic",
+    "category": "Antiemetic",
+    "form": "tablet",
+    "usage": "Nausea / vomiting",
+    "indications": "Nausea / vomiting",
+    "dosage": "4\u20138 mg q8h PRN",
+    "contraindications": [
+      "Congenital long QT"
+    ],
+    "batch_id": "BTX-HTX-10254",
+    "stock_units": 666,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "ondansetron",
+      "antiemetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2254",
+      "btx-htx-10254"
+    ]
+  },
+  {
+    "id": "M-2255",
+    "name": "Heparin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "injection",
+    "usage": "VTE prophylaxis",
+    "indications": "VTE prophylaxis",
+    "dosage": "5000 units SQ q8\u201312h",
+    "contraindications": [
+      "Active major bleed",
+      "HIT history"
+    ],
+    "batch_id": "BTX-HTX-10255",
+    "stock_units": 80,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "heparin",
+      "anticoagulant",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2255",
+      "btx-htx-10255"
+    ]
+  },
+  {
+    "id": "M-2256",
+    "name": "Morphine XR",
+    "category": "Opioid analgesic",
+    "form": "injection",
+    "usage": "Severe pain",
+    "indications": "Severe pain",
+    "dosage": "2\u20134 mg IV q2\u20134h PRN",
+    "contraindications": [
+      "Respiratory depression",
+      "Opioid allergy"
+    ],
+    "batch_id": "BTX-HTX-10256",
+    "stock_units": 254,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "morphine",
+      "opioid",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2256",
+      "btx-htx-10256"
+    ]
+  },
+  {
+    "id": "M-2257",
+    "name": "Prednisone IR",
+    "category": "Corticosteroid",
+    "form": "tablet",
+    "usage": "Inflammation / asthma flare",
+    "indications": "Inflammation / asthma flare",
+    "dosage": "5\u201360 mg daily taper",
+    "contraindications": [
+      "Systemic fungal infection"
+    ],
+    "batch_id": "BTX-HTX-10257",
+    "stock_units": 89,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "prednisone",
+      "corticosteroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2257",
+      "btx-htx-10257"
+    ]
+  },
+  {
+    "id": "M-2258",
+    "name": "Levothyroxine Generic",
+    "category": "Thyroid hormone",
+    "form": "tablet",
+    "usage": "Hypothyroidism",
+    "indications": "Hypothyroidism",
+    "dosage": "25\u2013125 mcg daily",
+    "contraindications": [
+      "Untreated thyrotoxicosis"
+    ],
+    "batch_id": "BTX-HTX-10258",
+    "stock_units": 52,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "levothyroxine",
+      "thyroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2258",
+      "btx-htx-10258"
+    ]
+  },
+  {
+    "id": "M-2259",
+    "name": "Clopidogrel Hospital Pack",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / stent",
+    "indications": "ACS / stent",
+    "dosage": "75 mg daily",
+    "contraindications": [
+      "Active bleeding"
+    ],
+    "batch_id": "BTX-HTX-10259",
+    "stock_units": 358,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "clopidogrel",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2259",
+      "btx-htx-10259"
+    ]
+  },
+  {
+    "id": "M-2260",
+    "name": "Metformin XR",
+    "category": "Antidiabetic",
+    "form": "tablet",
+    "usage": "Type 2 diabetes",
+    "indications": "Type 2 diabetes",
+    "dosage": "500\u20131000 mg BID with meals",
+    "contraindications": [
+      "eGFR < 30",
+      "Metabolic acidosis"
+    ],
+    "batch_id": "BTX-HTX-10260",
+    "stock_units": 92,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "metformin",
+      "antidiabetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2260",
+      "btx-htx-10260"
+    ]
+  },
+  {
+    "id": "M-2261",
+    "name": "Lisinopril IR",
+    "category": "ACE Inhibitor",
+    "form": "tablet",
+    "usage": "Hypertension / HF",
+    "indications": "Hypertension / HF",
+    "dosage": "10\u201340 mg daily",
+    "contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "batch_id": "BTX-HTX-10261",
+    "stock_units": 546,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "lisinopril",
+      "ace",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2261",
+      "btx-htx-10261"
+    ]
+  },
+  {
+    "id": "M-2262",
+    "name": "Azithromycin Generic",
+    "category": "Antibiotic",
+    "form": "tablet",
+    "usage": "CAP / atypical infections",
+    "indications": "CAP / atypical infections",
+    "dosage": "500 mg day 1 then 250 mg x4d",
+    "contraindications": [
+      "Macrolide allergy"
+    ],
+    "batch_id": "BTX-HTX-10262",
+    "stock_units": 263,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "azithromycin",
+      "antibiotic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2262",
+      "btx-htx-10262"
+    ]
+  },
+  {
+    "id": "M-2263",
+    "name": "Warfarin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "tablet",
+    "usage": "AF stroke prevention / VTE",
+    "indications": "AF stroke prevention / VTE",
+    "dosage": "2\u20135 mg daily titrated to INR",
+    "contraindications": [
+      "Active bleeding",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10263",
+    "stock_units": 305,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "warfarin",
+      "anticoagulant",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2263",
+      "btx-htx-10263"
+    ]
+  },
+  {
+    "id": "M-2264",
+    "name": "Albuterol XR",
+    "category": "Bronchodilator",
+    "form": "inhaler",
+    "usage": "Asthma / bronchospasm",
+    "indications": "Asthma / bronchospasm",
+    "dosage": "2 puffs q4\u20136h PRN",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10264",
+    "stock_units": 705,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "albuterol",
+      "bronchodilator",
+      "inhaler",
+      "houston",
+      "pharmacy",
+      "m-2264",
+      "btx-htx-10264"
+    ]
+  },
+  {
+    "id": "M-2265",
+    "name": "Acetaminophen IR",
+    "category": "Analgesic",
+    "form": "tablet",
+    "usage": "Pain / fever",
+    "indications": "Pain / fever",
+    "dosage": "650\u20131000 mg q6h PRN",
+    "contraindications": [
+      "Severe hepatic impairment"
+    ],
+    "batch_id": "BTX-HTX-10265",
+    "stock_units": 517,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "acetaminophen",
+      "analgesic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2265",
+      "btx-htx-10265"
+    ]
+  },
+  {
+    "id": "M-2266",
+    "name": "Aspirin Generic",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / CAD secondary prevention",
+    "indications": "ACS / CAD secondary prevention",
+    "dosage": "81 mg daily",
+    "contraindications": [
+      "Active GI bleed",
+      "Aspirin allergy"
+    ],
+    "batch_id": "BTX-HTX-10266",
+    "stock_units": 239,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "aspirin",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2266",
+      "btx-htx-10266"
+    ]
+  },
+  {
+    "id": "M-2267",
+    "name": "Atorvastatin Hospital Pack",
+    "category": "Statin",
+    "form": "tablet",
+    "usage": "Hyperlipidemia",
+    "indications": "Hyperlipidemia",
+    "dosage": "10\u201380 mg nightly",
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10267",
+    "stock_units": 572,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "atorvastatin",
+      "statin",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2267",
+      "btx-htx-10267"
+    ]
+  },
+  {
+    "id": "M-2268",
+    "name": "Omeprazole XR",
+    "category": "PPI",
+    "form": "capsule",
+    "usage": "GERD / ulcer prophylaxis",
+    "indications": "GERD / ulcer prophylaxis",
+    "dosage": "20\u201340 mg daily",
+    "contraindications": [
+      "Hypersensitivity to PPIs"
+    ],
+    "batch_id": "BTX-HTX-10268",
+    "stock_units": 155,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "omeprazole",
+      "ppi",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2268",
+      "btx-htx-10268"
+    ]
+  },
+  {
+    "id": "M-2269",
+    "name": "Furosemide IR",
+    "category": "Loop diuretic",
+    "form": "tablet",
+    "usage": "Edema / HF",
+    "indications": "Edema / HF",
+    "dosage": "20\u201380 mg daily",
+    "contraindications": [
+      "Anuria",
+      "Severe electrolyte depletion"
+    ],
+    "batch_id": "BTX-HTX-10269",
+    "stock_units": 760,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "furosemide",
+      "loop",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2269",
+      "btx-htx-10269"
+    ]
+  },
+  {
+    "id": "M-2270",
+    "name": "Amoxicillin Generic",
+    "category": "Antibiotic",
+    "form": "capsule",
+    "usage": "Bacterial infections",
+    "indications": "Bacterial infections",
+    "dosage": "500 mg TID",
+    "contraindications": [
+      "Penicillin allergy"
+    ],
+    "batch_id": "BTX-HTX-10270",
+    "stock_units": 604,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "amoxicillin",
+      "antibiotic",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2270",
+      "btx-htx-10270"
+    ]
+  },
+  {
+    "id": "M-2271",
+    "name": "Insulin Glargine Hospital Pack",
+    "category": "Insulin",
+    "form": "injection",
+    "usage": "Diabetes basal coverage",
+    "indications": "Diabetes basal coverage",
+    "dosage": "Individualized units SQ nightly",
+    "contraindications": [
+      "Hypoglycemia risk"
+    ],
+    "batch_id": "BTX-HTX-10271",
+    "stock_units": 610,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "insulin glargine",
+      "insulin",
+      "injection",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2271",
+      "btx-htx-10271"
+    ]
+  },
+  {
+    "id": "M-2272",
+    "name": "Gabapentin XR",
+    "category": "Anticonvulsant",
+    "form": "capsule",
+    "usage": "Neuropathic pain",
+    "indications": "Neuropathic pain",
+    "dosage": "300\u2013600 mg TID",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10272",
+    "stock_units": 504,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "gabapentin",
+      "anticonvulsant",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2272",
+      "btx-htx-10272"
+    ]
+  },
+  {
+    "id": "M-2273",
+    "name": "Sertraline IR",
+    "category": "SSRI",
+    "form": "tablet",
+    "usage": "Depression / anxiety",
+    "indications": "Depression / anxiety",
+    "dosage": "50\u2013100 mg daily",
+    "contraindications": [
+      "MAOIs concurrent"
+    ],
+    "batch_id": "BTX-HTX-10273",
+    "stock_units": 268,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "sertraline",
+      "ssri",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2273",
+      "btx-htx-10273"
+    ]
+  },
+  {
+    "id": "M-2274",
+    "name": "Ondansetron Generic",
+    "category": "Antiemetic",
+    "form": "tablet",
+    "usage": "Nausea / vomiting",
+    "indications": "Nausea / vomiting",
+    "dosage": "4\u20138 mg q8h PRN",
+    "contraindications": [
+      "Congenital long QT"
+    ],
+    "batch_id": "BTX-HTX-10274",
+    "stock_units": 504,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "ondansetron",
+      "antiemetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2274",
+      "btx-htx-10274"
+    ]
+  },
+  {
+    "id": "M-2275",
+    "name": "Heparin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "injection",
+    "usage": "VTE prophylaxis",
+    "indications": "VTE prophylaxis",
+    "dosage": "5000 units SQ q8\u201312h",
+    "contraindications": [
+      "Active major bleed",
+      "HIT history"
+    ],
+    "batch_id": "BTX-HTX-10275",
+    "stock_units": 436,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "heparin",
+      "anticoagulant",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2275",
+      "btx-htx-10275"
+    ]
+  },
+  {
+    "id": "M-2276",
+    "name": "Morphine XR",
+    "category": "Opioid analgesic",
+    "form": "injection",
+    "usage": "Severe pain",
+    "indications": "Severe pain",
+    "dosage": "2\u20134 mg IV q2\u20134h PRN",
+    "contraindications": [
+      "Respiratory depression",
+      "Opioid allergy"
+    ],
+    "batch_id": "BTX-HTX-10276",
+    "stock_units": 214,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "morphine",
+      "opioid",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2276",
+      "btx-htx-10276"
+    ]
+  },
+  {
+    "id": "M-2277",
+    "name": "Prednisone IR",
+    "category": "Corticosteroid",
+    "form": "tablet",
+    "usage": "Inflammation / asthma flare",
+    "indications": "Inflammation / asthma flare",
+    "dosage": "5\u201360 mg daily taper",
+    "contraindications": [
+      "Systemic fungal infection"
+    ],
+    "batch_id": "BTX-HTX-10277",
+    "stock_units": 116,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "prednisone",
+      "corticosteroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2277",
+      "btx-htx-10277"
+    ]
+  },
+  {
+    "id": "M-2278",
+    "name": "Levothyroxine Generic",
+    "category": "Thyroid hormone",
+    "form": "tablet",
+    "usage": "Hypothyroidism",
+    "indications": "Hypothyroidism",
+    "dosage": "25\u2013125 mcg daily",
+    "contraindications": [
+      "Untreated thyrotoxicosis"
+    ],
+    "batch_id": "BTX-HTX-10278",
+    "stock_units": 119,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "levothyroxine",
+      "thyroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2278",
+      "btx-htx-10278"
+    ]
+  },
+  {
+    "id": "M-2279",
+    "name": "Clopidogrel Hospital Pack",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / stent",
+    "indications": "ACS / stent",
+    "dosage": "75 mg daily",
+    "contraindications": [
+      "Active bleeding"
+    ],
+    "batch_id": "BTX-HTX-10279",
+    "stock_units": 694,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "clopidogrel",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2279",
+      "btx-htx-10279"
+    ]
+  },
+  {
+    "id": "M-2280",
+    "name": "Metformin XR",
+    "category": "Antidiabetic",
+    "form": "tablet",
+    "usage": "Type 2 diabetes",
+    "indications": "Type 2 diabetes",
+    "dosage": "500\u20131000 mg BID with meals",
+    "contraindications": [
+      "eGFR < 30",
+      "Metabolic acidosis"
+    ],
+    "batch_id": "BTX-HTX-10280",
+    "stock_units": 461,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "metformin",
+      "antidiabetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2280",
+      "btx-htx-10280"
+    ]
+  },
+  {
+    "id": "M-2281",
+    "name": "Lisinopril IR",
+    "category": "ACE Inhibitor",
+    "form": "tablet",
+    "usage": "Hypertension / HF",
+    "indications": "Hypertension / HF",
+    "dosage": "10\u201340 mg daily",
+    "contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "batch_id": "BTX-HTX-10281",
+    "stock_units": 382,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "lisinopril",
+      "ace",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2281",
+      "btx-htx-10281"
+    ]
+  },
+  {
+    "id": "M-2282",
+    "name": "Azithromycin Generic",
+    "category": "Antibiotic",
+    "form": "tablet",
+    "usage": "CAP / atypical infections",
+    "indications": "CAP / atypical infections",
+    "dosage": "500 mg day 1 then 250 mg x4d",
+    "contraindications": [
+      "Macrolide allergy"
+    ],
+    "batch_id": "BTX-HTX-10282",
+    "stock_units": 453,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "azithromycin",
+      "antibiotic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2282",
+      "btx-htx-10282"
+    ]
+  },
+  {
+    "id": "M-2283",
+    "name": "Warfarin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "tablet",
+    "usage": "AF stroke prevention / VTE",
+    "indications": "AF stroke prevention / VTE",
+    "dosage": "2\u20135 mg daily titrated to INR",
+    "contraindications": [
+      "Active bleeding",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10283",
+    "stock_units": 440,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "warfarin",
+      "anticoagulant",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2283",
+      "btx-htx-10283"
+    ]
+  },
+  {
+    "id": "M-2284",
+    "name": "Albuterol XR",
+    "category": "Bronchodilator",
+    "form": "inhaler",
+    "usage": "Asthma / bronchospasm",
+    "indications": "Asthma / bronchospasm",
+    "dosage": "2 puffs q4\u20136h PRN",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10284",
+    "stock_units": 498,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "albuterol",
+      "bronchodilator",
+      "inhaler",
+      "houston",
+      "pharmacy",
+      "m-2284",
+      "btx-htx-10284"
+    ]
+  },
+  {
+    "id": "M-2285",
+    "name": "Acetaminophen IR",
+    "category": "Analgesic",
+    "form": "tablet",
+    "usage": "Pain / fever",
+    "indications": "Pain / fever",
+    "dosage": "650\u20131000 mg q6h PRN",
+    "contraindications": [
+      "Severe hepatic impairment"
+    ],
+    "batch_id": "BTX-HTX-10285",
+    "stock_units": 766,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "acetaminophen",
+      "analgesic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2285",
+      "btx-htx-10285"
+    ]
+  },
+  {
+    "id": "M-2286",
+    "name": "Aspirin Generic",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / CAD secondary prevention",
+    "indications": "ACS / CAD secondary prevention",
+    "dosage": "81 mg daily",
+    "contraindications": [
+      "Active GI bleed",
+      "Aspirin allergy"
+    ],
+    "batch_id": "BTX-HTX-10286",
+    "stock_units": 75,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "aspirin",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2286",
+      "btx-htx-10286"
+    ]
+  },
+  {
+    "id": "M-2287",
+    "name": "Atorvastatin Hospital Pack",
+    "category": "Statin",
+    "form": "tablet",
+    "usage": "Hyperlipidemia",
+    "indications": "Hyperlipidemia",
+    "dosage": "10\u201380 mg nightly",
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10287",
+    "stock_units": 709,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "atorvastatin",
+      "statin",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2287",
+      "btx-htx-10287"
+    ]
+  },
+  {
+    "id": "M-2288",
+    "name": "Omeprazole XR",
+    "category": "PPI",
+    "form": "capsule",
+    "usage": "GERD / ulcer prophylaxis",
+    "indications": "GERD / ulcer prophylaxis",
+    "dosage": "20\u201340 mg daily",
+    "contraindications": [
+      "Hypersensitivity to PPIs"
+    ],
+    "batch_id": "BTX-HTX-10288",
+    "stock_units": 689,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "omeprazole",
+      "ppi",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2288",
+      "btx-htx-10288"
+    ]
+  },
+  {
+    "id": "M-2289",
+    "name": "Furosemide IR",
+    "category": "Loop diuretic",
+    "form": "tablet",
+    "usage": "Edema / HF",
+    "indications": "Edema / HF",
+    "dosage": "20\u201380 mg daily",
+    "contraindications": [
+      "Anuria",
+      "Severe electrolyte depletion"
+    ],
+    "batch_id": "BTX-HTX-10289",
+    "stock_units": 681,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "furosemide",
+      "loop",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2289",
+      "btx-htx-10289"
+    ]
+  },
+  {
+    "id": "M-2290",
+    "name": "Amoxicillin Generic",
+    "category": "Antibiotic",
+    "form": "capsule",
+    "usage": "Bacterial infections",
+    "indications": "Bacterial infections",
+    "dosage": "500 mg TID",
+    "contraindications": [
+      "Penicillin allergy"
+    ],
+    "batch_id": "BTX-HTX-10290",
+    "stock_units": 120,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "amoxicillin",
+      "antibiotic",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2290",
+      "btx-htx-10290"
+    ]
+  },
+  {
+    "id": "M-2291",
+    "name": "Insulin Glargine Hospital Pack",
+    "category": "Insulin",
+    "form": "injection",
+    "usage": "Diabetes basal coverage",
+    "indications": "Diabetes basal coverage",
+    "dosage": "Individualized units SQ nightly",
+    "contraindications": [
+      "Hypoglycemia risk"
+    ],
+    "batch_id": "BTX-HTX-10291",
+    "stock_units": 82,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "insulin glargine",
+      "insulin",
+      "injection",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2291",
+      "btx-htx-10291"
+    ]
+  },
+  {
+    "id": "M-2292",
+    "name": "Gabapentin XR",
+    "category": "Anticonvulsant",
+    "form": "capsule",
+    "usage": "Neuropathic pain",
+    "indications": "Neuropathic pain",
+    "dosage": "300\u2013600 mg TID",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10292",
+    "stock_units": 432,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "gabapentin",
+      "anticonvulsant",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2292",
+      "btx-htx-10292"
+    ]
+  },
+  {
+    "id": "M-2293",
+    "name": "Sertraline IR",
+    "category": "SSRI",
+    "form": "tablet",
+    "usage": "Depression / anxiety",
+    "indications": "Depression / anxiety",
+    "dosage": "50\u2013100 mg daily",
+    "contraindications": [
+      "MAOIs concurrent"
+    ],
+    "batch_id": "BTX-HTX-10293",
+    "stock_units": 765,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "sertraline",
+      "ssri",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2293",
+      "btx-htx-10293"
+    ]
+  },
+  {
+    "id": "M-2294",
+    "name": "Ondansetron Generic",
+    "category": "Antiemetic",
+    "form": "tablet",
+    "usage": "Nausea / vomiting",
+    "indications": "Nausea / vomiting",
+    "dosage": "4\u20138 mg q8h PRN",
+    "contraindications": [
+      "Congenital long QT"
+    ],
+    "batch_id": "BTX-HTX-10294",
+    "stock_units": 367,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "ondansetron",
+      "antiemetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2294",
+      "btx-htx-10294"
+    ]
+  },
+  {
+    "id": "M-2295",
+    "name": "Heparin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "injection",
+    "usage": "VTE prophylaxis",
+    "indications": "VTE prophylaxis",
+    "dosage": "5000 units SQ q8\u201312h",
+    "contraindications": [
+      "Active major bleed",
+      "HIT history"
+    ],
+    "batch_id": "BTX-HTX-10295",
+    "stock_units": 131,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "heparin",
+      "anticoagulant",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2295",
+      "btx-htx-10295"
+    ]
+  },
+  {
+    "id": "M-2296",
+    "name": "Morphine XR",
+    "category": "Opioid analgesic",
+    "form": "injection",
+    "usage": "Severe pain",
+    "indications": "Severe pain",
+    "dosage": "2\u20134 mg IV q2\u20134h PRN",
+    "contraindications": [
+      "Respiratory depression",
+      "Opioid allergy"
+    ],
+    "batch_id": "BTX-HTX-10296",
+    "stock_units": 274,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "morphine",
+      "opioid",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2296",
+      "btx-htx-10296"
+    ]
+  },
+  {
+    "id": "M-2297",
+    "name": "Prednisone IR",
+    "category": "Corticosteroid",
+    "form": "tablet",
+    "usage": "Inflammation / asthma flare",
+    "indications": "Inflammation / asthma flare",
+    "dosage": "5\u201360 mg daily taper",
+    "contraindications": [
+      "Systemic fungal infection"
+    ],
+    "batch_id": "BTX-HTX-10297",
+    "stock_units": 216,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "prednisone",
+      "corticosteroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2297",
+      "btx-htx-10297"
+    ]
+  },
+  {
+    "id": "M-2298",
+    "name": "Levothyroxine Generic",
+    "category": "Thyroid hormone",
+    "form": "tablet",
+    "usage": "Hypothyroidism",
+    "indications": "Hypothyroidism",
+    "dosage": "25\u2013125 mcg daily",
+    "contraindications": [
+      "Untreated thyrotoxicosis"
+    ],
+    "batch_id": "BTX-HTX-10298",
+    "stock_units": 214,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "levothyroxine",
+      "thyroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2298",
+      "btx-htx-10298"
+    ]
+  },
+  {
+    "id": "M-2299",
+    "name": "Clopidogrel Hospital Pack",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / stent",
+    "indications": "ACS / stent",
+    "dosage": "75 mg daily",
+    "contraindications": [
+      "Active bleeding"
+    ],
+    "batch_id": "BTX-HTX-10299",
+    "stock_units": 569,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "clopidogrel",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2299",
+      "btx-htx-10299"
+    ]
+  },
+  {
+    "id": "M-2300",
+    "name": "Metformin XR",
+    "category": "Antidiabetic",
+    "form": "tablet",
+    "usage": "Type 2 diabetes",
+    "indications": "Type 2 diabetes",
+    "dosage": "500\u20131000 mg BID with meals",
+    "contraindications": [
+      "eGFR < 30",
+      "Metabolic acidosis"
+    ],
+    "batch_id": "BTX-HTX-10300",
+    "stock_units": 479,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "metformin",
+      "antidiabetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2300",
+      "btx-htx-10300"
+    ]
+  },
+  {
+    "id": "M-2301",
+    "name": "Lisinopril IR",
+    "category": "ACE Inhibitor",
+    "form": "tablet",
+    "usage": "Hypertension / HF",
+    "indications": "Hypertension / HF",
+    "dosage": "10\u201340 mg daily",
+    "contraindications": [
+      "Pregnancy",
+      "Angioedema history"
+    ],
+    "batch_id": "BTX-HTX-10301",
+    "stock_units": 163,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "lisinopril",
+      "ace",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2301",
+      "btx-htx-10301"
+    ]
+  },
+  {
+    "id": "M-2302",
+    "name": "Azithromycin Generic",
+    "category": "Antibiotic",
+    "form": "tablet",
+    "usage": "CAP / atypical infections",
+    "indications": "CAP / atypical infections",
+    "dosage": "500 mg day 1 then 250 mg x4d",
+    "contraindications": [
+      "Macrolide allergy"
+    ],
+    "batch_id": "BTX-HTX-10302",
+    "stock_units": 452,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "azithromycin",
+      "antibiotic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2302",
+      "btx-htx-10302"
+    ]
+  },
+  {
+    "id": "M-2303",
+    "name": "Warfarin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "tablet",
+    "usage": "AF stroke prevention / VTE",
+    "indications": "AF stroke prevention / VTE",
+    "dosage": "2\u20135 mg daily titrated to INR",
+    "contraindications": [
+      "Active bleeding",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10303",
+    "stock_units": 207,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "warfarin",
+      "anticoagulant",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2303",
+      "btx-htx-10303"
+    ]
+  },
+  {
+    "id": "M-2304",
+    "name": "Albuterol XR",
+    "category": "Bronchodilator",
+    "form": "inhaler",
+    "usage": "Asthma / bronchospasm",
+    "indications": "Asthma / bronchospasm",
+    "dosage": "2 puffs q4\u20136h PRN",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10304",
+    "stock_units": 305,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "albuterol",
+      "bronchodilator",
+      "inhaler",
+      "houston",
+      "pharmacy",
+      "m-2304",
+      "btx-htx-10304"
+    ]
+  },
+  {
+    "id": "M-2305",
+    "name": "Acetaminophen IR",
+    "category": "Analgesic",
+    "form": "tablet",
+    "usage": "Pain / fever",
+    "indications": "Pain / fever",
+    "dosage": "650\u20131000 mg q6h PRN",
+    "contraindications": [
+      "Severe hepatic impairment"
+    ],
+    "batch_id": "BTX-HTX-10305",
+    "stock_units": 493,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "acetaminophen",
+      "analgesic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2305",
+      "btx-htx-10305"
+    ]
+  },
+  {
+    "id": "M-2306",
+    "name": "Aspirin Generic",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / CAD secondary prevention",
+    "indications": "ACS / CAD secondary prevention",
+    "dosage": "81 mg daily",
+    "contraindications": [
+      "Active GI bleed",
+      "Aspirin allergy"
+    ],
+    "batch_id": "BTX-HTX-10306",
+    "stock_units": 275,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "aspirin",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2306",
+      "btx-htx-10306"
+    ]
+  },
+  {
+    "id": "M-2307",
+    "name": "Atorvastatin Hospital Pack",
+    "category": "Statin",
+    "form": "tablet",
+    "usage": "Hyperlipidemia",
+    "indications": "Hyperlipidemia",
+    "dosage": "10\u201380 mg nightly",
+    "contraindications": [
+      "Active liver disease",
+      "Pregnancy"
+    ],
+    "batch_id": "BTX-HTX-10307",
+    "stock_units": 97,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "atorvastatin",
+      "statin",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2307",
+      "btx-htx-10307"
+    ]
+  },
+  {
+    "id": "M-2308",
+    "name": "Omeprazole XR",
+    "category": "PPI",
+    "form": "capsule",
+    "usage": "GERD / ulcer prophylaxis",
+    "indications": "GERD / ulcer prophylaxis",
+    "dosage": "20\u201340 mg daily",
+    "contraindications": [
+      "Hypersensitivity to PPIs"
+    ],
+    "batch_id": "BTX-HTX-10308",
+    "stock_units": 473,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "omeprazole",
+      "ppi",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2308",
+      "btx-htx-10308"
+    ]
+  },
+  {
+    "id": "M-2309",
+    "name": "Furosemide IR",
+    "category": "Loop diuretic",
+    "form": "tablet",
+    "usage": "Edema / HF",
+    "indications": "Edema / HF",
+    "dosage": "20\u201380 mg daily",
+    "contraindications": [
+      "Anuria",
+      "Severe electrolyte depletion"
+    ],
+    "batch_id": "BTX-HTX-10309",
+    "stock_units": 583,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "furosemide",
+      "loop",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2309",
+      "btx-htx-10309"
+    ]
+  },
+  {
+    "id": "M-2310",
+    "name": "Amoxicillin Generic",
+    "category": "Antibiotic",
+    "form": "capsule",
+    "usage": "Bacterial infections",
+    "indications": "Bacterial infections",
+    "dosage": "500 mg TID",
+    "contraindications": [
+      "Penicillin allergy"
+    ],
+    "batch_id": "BTX-HTX-10310",
+    "stock_units": 120,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "amoxicillin",
+      "antibiotic",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2310",
+      "btx-htx-10310"
+    ]
+  },
+  {
+    "id": "M-2311",
+    "name": "Insulin Glargine Hospital Pack",
+    "category": "Insulin",
+    "form": "injection",
+    "usage": "Diabetes basal coverage",
+    "indications": "Diabetes basal coverage",
+    "dosage": "Individualized units SQ nightly",
+    "contraindications": [
+      "Hypoglycemia risk"
+    ],
+    "batch_id": "BTX-HTX-10311",
+    "stock_units": 71,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "insulin glargine",
+      "insulin",
+      "injection",
+      "houston",
+      "pharmacy",
+      "glucose",
+      "sugar",
+      "diabetes",
+      "m-2311",
+      "btx-htx-10311"
+    ]
+  },
+  {
+    "id": "M-2312",
+    "name": "Gabapentin XR",
+    "category": "Anticonvulsant",
+    "form": "capsule",
+    "usage": "Neuropathic pain",
+    "indications": "Neuropathic pain",
+    "dosage": "300\u2013600 mg TID",
+    "contraindications": [
+      "Hypersensitivity"
+    ],
+    "batch_id": "BTX-HTX-10312",
+    "stock_units": 687,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "gabapentin",
+      "anticonvulsant",
+      "capsule",
+      "houston",
+      "pharmacy",
+      "m-2312",
+      "btx-htx-10312"
+    ]
+  },
+  {
+    "id": "M-2313",
+    "name": "Sertraline IR",
+    "category": "SSRI",
+    "form": "tablet",
+    "usage": "Depression / anxiety",
+    "indications": "Depression / anxiety",
+    "dosage": "50\u2013100 mg daily",
+    "contraindications": [
+      "MAOIs concurrent"
+    ],
+    "batch_id": "BTX-HTX-10313",
+    "stock_units": 573,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "sertraline",
+      "ssri",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2313",
+      "btx-htx-10313"
+    ]
+  },
+  {
+    "id": "M-2314",
+    "name": "Ondansetron Generic",
+    "category": "Antiemetic",
+    "form": "tablet",
+    "usage": "Nausea / vomiting",
+    "indications": "Nausea / vomiting",
+    "dosage": "4\u20138 mg q8h PRN",
+    "contraindications": [
+      "Congenital long QT"
+    ],
+    "batch_id": "BTX-HTX-10314",
+    "stock_units": 35,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "ondansetron",
+      "antiemetic",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2314",
+      "btx-htx-10314"
+    ]
+  },
+  {
+    "id": "M-2315",
+    "name": "Heparin Hospital Pack",
+    "category": "Anticoagulant",
+    "form": "injection",
+    "usage": "VTE prophylaxis",
+    "indications": "VTE prophylaxis",
+    "dosage": "5000 units SQ q8\u201312h",
+    "contraindications": [
+      "Active major bleed",
+      "HIT history"
+    ],
+    "batch_id": "BTX-HTX-10315",
+    "stock_units": 115,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "heparin",
+      "anticoagulant",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2315",
+      "btx-htx-10315"
+    ]
+  },
+  {
+    "id": "M-2316",
+    "name": "Morphine XR",
+    "category": "Opioid analgesic",
+    "form": "injection",
+    "usage": "Severe pain",
+    "indications": "Severe pain",
+    "dosage": "2\u20134 mg IV q2\u20134h PRN",
+    "contraindications": [
+      "Respiratory depression",
+      "Opioid allergy"
+    ],
+    "batch_id": "BTX-HTX-10316",
+    "stock_units": 791,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "morphine",
+      "opioid",
+      "injection",
+      "houston",
+      "pharmacy",
+      "m-2316",
+      "btx-htx-10316"
+    ]
+  },
+  {
+    "id": "M-2317",
+    "name": "Prednisone IR",
+    "category": "Corticosteroid",
+    "form": "tablet",
+    "usage": "Inflammation / asthma flare",
+    "indications": "Inflammation / asthma flare",
+    "dosage": "5\u201360 mg daily taper",
+    "contraindications": [
+      "Systemic fungal infection"
+    ],
+    "batch_id": "BTX-HTX-10317",
+    "stock_units": 262,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "prednisone",
+      "corticosteroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2317",
+      "btx-htx-10317"
+    ]
+  },
+  {
+    "id": "M-2318",
+    "name": "Levothyroxine Generic",
+    "category": "Thyroid hormone",
+    "form": "tablet",
+    "usage": "Hypothyroidism",
+    "indications": "Hypothyroidism",
+    "dosage": "25\u2013125 mcg daily",
+    "contraindications": [
+      "Untreated thyrotoxicosis"
+    ],
+    "batch_id": "BTX-HTX-10318",
+    "stock_units": 190,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "levothyroxine",
+      "thyroid",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "m-2318",
+      "btx-htx-10318"
+    ]
+  },
+  {
+    "id": "M-2319",
+    "name": "Clopidogrel Hospital Pack",
+    "category": "Antiplatelet",
+    "form": "tablet",
+    "usage": "ACS / stent",
+    "indications": "ACS / stent",
+    "dosage": "75 mg daily",
+    "contraindications": [
+      "Active bleeding"
+    ],
+    "batch_id": "BTX-HTX-10319",
+    "stock_units": 436,
+    "facility": "Medirator Synthetic Hospital \u2014 Houston, TX",
+    "keywords": [
+      "clopidogrel",
+      "antiplatelet",
+      "tablet",
+      "houston",
+      "pharmacy",
+      "cardiac",
+      "heart",
+      "bp",
+      "m-2319",
+      "btx-htx-10319"
+    ]
+  }
+]
