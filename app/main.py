@@ -10,7 +10,7 @@ from app.routes import auth, complaints, data, health, query
 
 app = FastAPI(
     title="Medirator 2.0 API",
-    description="AI Hospital Knowledge Assistant — keyword RAG + Grok (xAI)",
+    description="AI Hospital Knowledge Assistant — keyword RAG + Gemini/Grok",
     version="2.0.0",
 )
 
@@ -46,7 +46,7 @@ def root():
     return {
         "name": "Medirator 2.0",
         "message": "AI Hospital Knowledge Assistant API",
-        "llm": "grok",
+        "llm": "gemini",
         "endpoints": {
             "auth_google": "POST /auth/google",
             "auth_me": "GET /auth/me",
