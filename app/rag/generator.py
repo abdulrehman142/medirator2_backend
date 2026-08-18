@@ -276,9 +276,23 @@ def generate(
                     "temperature": 0.2,
                 },
             )
+            if response.status_code >= 400:
+                detail = response.text[:240]
+                summary = fallback.get("summary", "")
+                return (
+                    f"{summary}\n\n(Note: Grok API error {response.status_code}. "
+                    f"Check GROK_API_KEY / GROK_MODEL on the server.)",
+                    fallback,
+                    f"fallback-error-{response.status_code}",
+                )
             response.raise_for_status()
-    except httpx.HTTPError:
-        return fallback.get("summary", ""), fallback, "fallback-error"
+    except httpx.HTTPError as exc:
+        summary = fallback.get("summary", "")
+        return (
+            f"{summary}\n\n(Note: Grok request failed: {exc.__class__.__name__})",
+            fallback,
+            "fallback-error",
+        )
 
     payload = response.json()
     choices = payload.get("choices") or []

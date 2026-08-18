@@ -152,19 +152,35 @@ def decode_access_token(token: str) -> dict[str, Any]:
 
 
 def set_auth_cookie(response: Response, token: str) -> None:
+    # Cross-site (Netlify frontend → Render API) needs SameSite=None; Secure
+    cross_site = os.getenv("COOKIE_CROSS_SITE", "true").lower() in {
+        "1",
+        "true",
+        "yes",
+    }
     response.set_cookie(
         key=COOKIE_NAME,
         value=token,
         httponly=True,
-        secure=False,
-        samesite="lax",
+        secure=cross_site,  # required with SameSite=None
+        samesite="none" if cross_site else "lax",
         max_age=JWT_EXPIRE_HOURS * 3600,
         path="/",
     )
 
 
 def clear_auth_cookie(response: Response) -> None:
-    response.delete_cookie(COOKIE_NAME, path="/")
+    cross_site = os.getenv("COOKIE_CROSS_SITE", "true").lower() in {
+        "1",
+        "true",
+        "yes",
+    }
+    response.delete_cookie(
+        COOKIE_NAME,
+        path="/",
+        secure=cross_site,
+        samesite="none" if cross_site else "lax",
+    )
 
 
 def get_token_from_request(request: Request) -> str | None:
