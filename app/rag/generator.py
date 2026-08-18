@@ -339,16 +339,29 @@ def _call_grok(prompt: str) -> tuple[str, str]:
     return content.strip(), GROK_MODEL
 
 
+def _coerce_answer(value: Any, fallback_summary: str) -> str:
+    if isinstance(value, str) and value.strip():
+        return value
+    if value is None:
+        return fallback_summary
+    if isinstance(value, (dict, list)):
+        return json.dumps(value, ensure_ascii=False)
+    return str(value)
+
+
 def generate(
     query: str,
     category: str,
     context_records: list[dict[str, Any]],
 ) -> tuple[str, dict[str, Any] | None, str]:
     """Generate answer via Gemini or Grok; fall back to deterministic structured output."""
+    # Smaller context → faster Gemini calls (helps avoid Render request timeouts)
+    context_records = list(context_records[:2])
     fallback = _fallback_structured(category, context_records)
+    fallback_summary = str(fallback.get("summary", ""))
 
     if not context_records:
-        return fallback["summary"], fallback, "fallback"
+        return fallback_summary, fallback, "fallback"
 
     if not llm_configured():
         provider = active_provider()
@@ -357,7 +370,9 @@ def generate(
             fallback.get(
                 "summary",
                 f"{key_name} not configured; showing retrieved record.",
-            ),
+            )
+            if isinstance(fallback.get("summary"), str)
+            else fallback_summary,
             fallback,
             "fallback-no-key",
         )
@@ -370,26 +385,30 @@ def generate(
             content, model = _call_gemini(prompt)
         else:
             content, model = _call_grok(prompt)
-    except HTTPException:
-        return fallback.get("summary", ""), fallback, "fallback-no-model"
-    except httpx.HTTPError as exc:
-        summary = fallback.get("summary", "")
+    except Exception as exc:
         return (
-            f"{summary}\n\n(Note: LLM request failed: {exc.__class__.__name__})",
+            f"{fallback_summary}\n\n(Note: LLM request failed: {exc.__class__.__name__})",
             fallback,
             "fallback-error",
         )
 
-    if not content and model.startswith(("gemini-error-", "grok-error-")):
-        summary = fallback.get("summary", "")
+    if not content and isinstance(model, str) and model.startswith(
+        ("gemini-error-", "grok-error-")
+    ):
         code = model.split(":", 1)[0]
         return (
-            f"{summary}\n\n(Note: {provider} API failed ({code}). "
+            f"{fallback_summary}\n\n(Note: {provider} API failed ({code}). "
             f"Check API key / model / credits.)",
             fallback,
             code,
         )
 
     structured = _extract_json(content) or fallback
-    answer = structured.get("summary") or content or fallback.get("summary", "")
-    return answer, structured, model
+    if not isinstance(structured, dict):
+        structured = fallback
+
+    answer = _coerce_answer(
+        structured.get("summary") or content,
+        fallback_summary,
+    )
+    return answer, structured, model if isinstance(model, str) else str(model)

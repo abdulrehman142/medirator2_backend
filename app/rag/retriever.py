@@ -170,7 +170,7 @@ def score_record(query_tokens: list[str], record: dict[str, Any]) -> float:
 def retrieve(
     query: str,
     category: str | None = None,
-    top_k: int = 3,
+    top_k: int = 2,
 ) -> tuple[str, list[dict[str, Any]], float]:
     """Return (resolved_category, ranked results, confidence)."""
     resolved = detect_category(query, category)
