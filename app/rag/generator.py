@@ -22,7 +22,7 @@ GEMINI_BASE_URL = os.getenv(
     "https://generativelanguage.googleapis.com/v1beta",
 ).rstrip("/")
 GEMINI_MODEL = (
-    os.getenv("GEMINI_MODEL", "gemini-1.5-pro").strip() or "gemini-1.5-pro"
+    os.getenv("GEMINI_MODEL", "gemini-3.5-flash").strip() or "gemini-3.5-flash"
 )
 
 # Grok (xAI) — optional

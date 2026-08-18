@@ -20,7 +20,7 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 |----------|---------|
 | `LLM_PROVIDER` | `gemini` (default) or `grok` |
 | `GEMINI_API_KEY` | Google AI Studio key ([aistudio.google.com/apikey](https://aistudio.google.com/apikey)) |
-| `GEMINI_MODEL` | Default `gemini-1.5-pro` (or `gemini-2.0-flash`) |
+| `GEMINI_MODEL` | Default `gemini-3.5-flash` (or `gemini-pro-latest`) |
 | `GROK_API_KEY` | Optional xAI key if `LLM_PROVIDER=grok` |
 | `GOOGLE_CLIENT_ID` | Google OAuth web client |
 | `JWT_SECRET` | Session signing secret |
